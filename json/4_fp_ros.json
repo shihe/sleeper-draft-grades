@@ -1,2111 +1,1689 @@
 [{
     "RK": "1",
-    "PLAYER NAME": "Saquon Barkley",
-    "POS": "RB1",
-    "ADP Delta": "10"
+    "Player": "Saquon Barkley",
+    "POS": "RB1"
 }, {
     "RK": "2",
-    "PLAYER NAME": "Justin Jefferson",
-    "POS": "WR1",
-    "ADP Delta": "4"
+    "Player": "Justin Jefferson",
+    "POS": "WR1"
 }, {
     "RK": "3",
-    "PLAYER NAME": "Bijan Robinson",
-    "POS": "RB2",
-    "ADP Delta": "2"
+    "Player": "Bijan Robinson",
+    "POS": "RB2"
 }, {
     "RK": "4",
-    "PLAYER NAME": "Breece Hall",
-    "POS": "RB3",
-    "ADP Delta": "0"
+    "Player": "Breece Hall",
+    "POS": "RB3"
 }, {
     "RK": "5",
-    "PLAYER NAME": "CeeDee Lamb",
-    "POS": "WR2",
-    "ADP Delta": "-2"
+    "Player": "CeeDee Lamb",
+    "POS": "WR2"
 }, {
     "RK": "6",
-    "PLAYER NAME": "Ja'Marr Chase",
-    "POS": "WR3",
-    "ADP Delta": "1"
+    "Player": "Ja'Marr Chase",
+    "POS": "WR3"
 }, {
     "RK": "7",
-    "PLAYER NAME": "Rashee Rice",
-    "POS": "WR4",
-    "ADP Delta": "63"
+    "Player": "Rashee Rice",
+    "POS": "WR4"
 }, {
     "RK": "8",
-    "PLAYER NAME": "Jonathan Taylor",
-    "POS": "RB4",
-    "ADP Delta": "2"
+    "Player": "Jonathan Taylor",
+    "POS": "RB4"
 }, {
     "RK": "9",
-    "PLAYER NAME": "Amon-Ra St. Brown",
-    "POS": "WR5",
-    "ADP Delta": "-1"
+    "Player": "Amon-Ra St. Brown",
+    "POS": "WR5"
 }, {
     "RK": "10",
-    "PLAYER NAME": "Malik Nabers",
-    "POS": "WR6",
-    "ADP Delta": "39"
+    "Player": "Malik Nabers",
+    "POS": "WR6"
 }, {
     "RK": "11",
-    "PLAYER NAME": "Jahmyr Gibbs",
-    "POS": "RB5",
-    "ADP Delta": "2"
+    "Player": "Jahmyr Gibbs",
+    "POS": "RB5"
 }, {
     "RK": "12",
-    "PLAYER NAME": "Alvin Kamara",
-    "POS": "RB6",
-    "ADP Delta": "33"
+    "Player": "Alvin Kamara",
+    "POS": "RB6"
 }, {
     "RK": "13",
-    "PLAYER NAME": "James Cook",
-    "POS": "RB7",
-    "ADP Delta": "23"
+    "Player": "James Cook",
+    "POS": "RB7"
 }, {
     "RK": "14",
-    "PLAYER NAME": "A.J. Brown",
-    "POS": "WR7",
-    "ADP Delta": "-5"
+    "Player": "A.J. Brown",
+    "POS": "WR7"
 }, {
     "RK": "15",
-    "PLAYER NAME": "De'Von Achane",
-    "POS": "RB8",
-    "ADP Delta": "5"
+    "Player": "De'Von Achane",
+    "POS": "RB8"
 }, {
     "RK": "16",
-    "PLAYER NAME": "Nico Collins",
-    "POS": "WR8",
-    "ADP Delta": "12"
+    "Player": "Nico Collins",
+    "POS": "WR8"
 }, {
     "RK": "17",
-    "PLAYER NAME": "Derrick Henry",
-    "POS": "RB9",
-    "ADP Delta": "0"
+    "Player": "Derrick Henry",
+    "POS": "RB9"
 }, {
     "RK": "18",
-    "PLAYER NAME": "Kyren Williams",
-    "POS": "RB10",
-    "ADP Delta": "0"
+    "Player": "Kyren Williams",
+    "POS": "RB10"
 }, {
     "RK": "19",
-    "PLAYER NAME": "Garrett Wilson",
-    "POS": "WR9",
-    "ADP Delta": "-7"
+    "Player": "Garrett Wilson",
+    "POS": "WR9"
 }, {
     "RK": "20",
-    "PLAYER NAME": "Marvin Harrison Jr.",
-    "POS": "WR10",
-    "ADP Delta": "-5"
+    "Player": "Marvin Harrison Jr.",
+    "POS": "WR10"
 }, {
     "RK": "21",
-    "PLAYER NAME": "Joe Mixon",
-    "POS": "RB11",
-    "ADP Delta": "21"
+    "Player": "Joe Mixon",
+    "POS": "RB11"
 }, {
     "RK": "22",
-    "PLAYER NAME": "Mike Evans",
-    "POS": "WR11",
-    "ADP Delta": "10"
+    "Player": "Mike Evans",
+    "POS": "WR11"
 }, {
     "RK": "23",
-    "PLAYER NAME": "DK Metcalf",
-    "POS": "WR12",
-    "ADP Delta": "17"
+    "Player": "DK Metcalf",
+    "POS": "WR12"
 }, {
     "RK": "24",
-    "PLAYER NAME": "Josh Jacobs",
-    "POS": "RB12",
-    "ADP Delta": "0"
+    "Player": "Josh Jacobs",
+    "POS": "RB12"
 }, {
     "RK": "25",
-    "PLAYER NAME": "DeVonta Smith",
-    "POS": "WR13",
-    "ADP Delta": "21"
+    "Player": "DeVonta Smith",
+    "POS": "WR13"
 }, {
     "RK": "26",
-    "PLAYER NAME": "Chris Olave",
-    "POS": "WR14",
-    "ADP Delta": "-1"
+    "Player": "Chris Olave",
+    "POS": "WR14"
 }, {
     "RK": "27",
-    "PLAYER NAME": "Tyreek Hill",
-    "POS": "WR15",
-    "ADP Delta": "-25"
+    "Player": "Tyreek Hill",
+    "POS": "WR15"
 }, {
     "RK": "28",
-    "PLAYER NAME": "Josh Allen",
-    "POS": "QB1",
-    "ADP Delta": "-5"
+    "Player": "Josh Allen",
+    "POS": "QB1"
 }, {
     "RK": "29",
-    "PLAYER NAME": "Trey McBride",
-    "POS": "TE1",
-    "ADP Delta": "19"
+    "Player": "Trey McBride",
+    "POS": "TE1"
 }, {
     "RK": "30",
-    "PLAYER NAME": "James Conner",
-    "POS": "RB13",
-    "ADP Delta": "25"
+    "Player": "James Conner",
+    "POS": "RB13"
 }, {
     "RK": "31",
-    "PLAYER NAME": "Jordan Mason",
-    "POS": "RB14",
-    "ADP Delta": "149"
+    "Player": "Jordan Mason",
+    "POS": "RB14"
 }, {
     "RK": "32",
-    "PLAYER NAME": "Chris Godwin",
-    "POS": "WR16",
-    "ADP Delta": "45"
+    "Player": "Chris Godwin",
+    "POS": "WR16"
 }, {
     "RK": "33",
-    "PLAYER NAME": "Davante Adams",
-    "POS": "WR17",
-    "ADP Delta": "-14"
+    "Player": "Davante Adams",
+    "POS": "WR17"
 }, {
     "RK": "34",
-    "PLAYER NAME": "Brock Bowers",
-    "POS": "TE2",
-    "ADP Delta": "59"
+    "Player": "Brock Bowers",
+    "POS": "TE2"
 }, {
     "RK": "35",
-    "PLAYER NAME": "Drake London",
-    "POS": "WR18",
-    "ADP Delta": "-13"
+    "Player": "Drake London",
+    "POS": "WR18"
 }, {
     "RK": "36",
-    "PLAYER NAME": "Lamar Jackson",
-    "POS": "QB2",
-    "ADP Delta": "1"
+    "Player": "Lamar Jackson",
+    "POS": "QB2"
 }, {
     "RK": "37",
-    "PLAYER NAME": "Brandon Aiyuk",
-    "POS": "WR19",
-    "ADP Delta": "-4"
+    "Player": "Brandon Aiyuk",
+    "POS": "WR19"
 }, {
     "RK": "38",
-    "PLAYER NAME": "Aaron Jones",
-    "POS": "RB15",
-    "ADP Delta": "15"
+    "Player": "Aaron Jones",
+    "POS": "RB15"
 }, {
     "RK": "39",
-    "PLAYER NAME": "Kenneth Walker III",
-    "POS": "RB16",
-    "ADP Delta": "4"
+    "Player": "Kenneth Walker III",
+    "POS": "RB16"
 }, {
     "RK": "40",
-    "PLAYER NAME": "Travis Etienne Jr.",
-    "POS": "RB17",
-    "ADP Delta": "-24"
+    "Player": "Travis Etienne Jr.",
+    "POS": "RB17"
 }, {
     "RK": "41",
-    "PLAYER NAME": "David Montgomery",
-    "POS": "RB18",
-    "ADP Delta": "16"
+    "Player": "David Montgomery",
+    "POS": "RB18"
 }, {
     "RK": "42",
-    "PLAYER NAME": "DJ Moore",
-    "POS": "WR20",
-    "ADP Delta": "-4"
+    "Player": "DJ Moore",
+    "POS": "WR20"
 }, {
     "RK": "43",
-    "PLAYER NAME": "Deebo Samuel Sr.",
-    "POS": "WR21",
-    "ADP Delta": "-16"
+    "Player": "Deebo Samuel Sr.",
+    "POS": "WR21"
 }, {
     "RK": "44",
-    "PLAYER NAME": "Jalen Hurts",
-    "POS": "QB3",
-    "ADP Delta": "-13"
+    "Player": "Jalen Hurts",
+    "POS": "QB3"
 }, {
     "RK": "45",
-    "PLAYER NAME": "Dalton Kincaid",
-    "POS": "TE3",
-    "ADP Delta": "7"
+    "Player": "Dalton Kincaid",
+    "POS": "TE3"
 }, {
     "RK": "46",
-    "PLAYER NAME": "Stefon Diggs",
-    "POS": "WR22",
-    "ADP Delta": "-2"
+    "Player": "Stefon Diggs",
+    "POS": "WR22"
 }, {
     "RK": "47",
-    "PLAYER NAME": "Patrick Mahomes II",
-    "POS": "QB4",
-    "ADP Delta": "-17"
+    "Player": "Patrick Mahomes II",
+    "POS": "QB4"
 }, {
     "RK": "48",
-    "PLAYER NAME": "Christian McCaffrey",
-    "POS": "RB19",
-    "ADP Delta": "-47"
+    "Player": "Christian McCaffrey",
+    "POS": "RB19"
 }, {
     "RK": "49",
-    "PLAYER NAME": "George Pickens",
-    "POS": "WR23",
-    "ADP Delta": "10"
+    "Player": "George Pickens",
+    "POS": "WR23"
 }, {
     "RK": "50",
-    "PLAYER NAME": "Brian Robinson Jr.",
-    "POS": "RB20",
-    "ADP Delta": "40"
+    "Player": "Brian Robinson Jr.",
+    "POS": "RB20"
 }, {
     "RK": "51",
-    "PLAYER NAME": "Jameson Williams",
-    "POS": "WR24",
-    "ADP Delta": "67"
+    "Player": "Jameson Williams",
+    "POS": "WR24"
 }, {
     "RK": "52",
-    "PLAYER NAME": "Diontae Johnson",
-    "POS": "WR25",
-    "ADP Delta": "31"
+    "Player": "Diontae Johnson",
+    "POS": "WR25"
 }, {
     "RK": "53",
-    "PLAYER NAME": "Zay Flowers",
-    "POS": "WR26",
-    "ADP Delta": "10"
+    "Player": "Zay Flowers",
+    "POS": "WR26"
 }, {
     "RK": "54",
-    "PLAYER NAME": "George Kittle",
-    "POS": "TE4",
-    "ADP Delta": "2"
+    "Player": "George Kittle",
+    "POS": "TE4"
 }, {
     "RK": "55",
-    "PLAYER NAME": "Kyler Murray",
-    "POS": "QB5",
-    "ADP Delta": "6"
+    "Player": "Kyler Murray",
+    "POS": "QB5"
 }, {
     "RK": "56",
-    "PLAYER NAME": "Jayden Reed",
-    "POS": "WR27",
-    "ADP Delta": "26"
+    "Player": "Jayden Reed",
+    "POS": "WR27"
 }, {
     "RK": "57",
-    "PLAYER NAME": "Jayden Daniels",
-    "POS": "QB6",
-    "ADP Delta": "38"
+    "Player": "Jayden Daniels",
+    "POS": "QB6"
 }, {
     "RK": "58",
-    "PLAYER NAME": "J.K. Dobbins",
-    "POS": "RB21",
-    "ADP Delta": "71"
+    "Player": "J.K. Dobbins",
+    "POS": "RB21"
 }, {
     "RK": "59",
-    "PLAYER NAME": "Amari Cooper",
-    "POS": "WR28",
-    "ADP Delta": "-5"
+    "Player": "Amari Cooper",
+    "POS": "WR28"
 }, {
     "RK": "60",
-    "PLAYER NAME": "Rhamondre Stevenson",
-    "POS": "RB22",
-    "ADP Delta": "-2"
+    "Player": "Rhamondre Stevenson",
+    "POS": "RB22"
 }, {
     "RK": "61",
-    "PLAYER NAME": "C.J. Stroud",
-    "POS": "QB7",
-    "ADP Delta": "-14"
+    "Player": "C.J. Stroud",
+    "POS": "QB7"
 }, {
     "RK": "62",
-    "PLAYER NAME": "Tony Pollard",
-    "POS": "RB23",
-    "ADP Delta": "18"
+    "Player": "Tony Pollard",
+    "POS": "RB23"
 }, {
     "RK": "63",
-    "PLAYER NAME": "Jake Ferguson",
-    "POS": "TE5",
-    "ADP Delta": "18"
+    "Player": "Jake Ferguson",
+    "POS": "TE5"
 }, {
     "RK": "64",
-    "PLAYER NAME": "Terry McLaurin",
-    "POS": "WR29",
-    "ADP Delta": "3"
+    "Player": "Terry McLaurin",
+    "POS": "WR29"
 }, {
     "RK": "65",
-    "PLAYER NAME": "Tank Dell",
-    "POS": "WR30",
-    "ADP Delta": "-1"
+    "Player": "Tank Dell",
+    "POS": "WR30"
 }, {
     "RK": "66",
-    "PLAYER NAME": "Jaxon Smith-Njigba",
-    "POS": "WR31",
-    "ADP Delta": "33"
+    "Player": "Jaxon Smith-Njigba",
+    "POS": "WR31"
 }, {
     "RK": "67",
-    "PLAYER NAME": "Devin Singletary",
-    "POS": "RB24",
-    "ADP Delta": "17"
+    "Player": "Devin Singletary",
+    "POS": "RB24"
 }, {
     "RK": "68",
-    "PLAYER NAME": "Sam LaPorta",
-    "POS": "TE6",
-    "ADP Delta": "-39"
+    "Player": "Sam LaPorta",
+    "POS": "TE6"
 }, {
     "RK": "69",
-    "PLAYER NAME": "Anthony Richardson",
-    "POS": "QB8",
-    "ADP Delta": "-18"
+    "Player": "Anthony Richardson",
+    "POS": "QB8"
 }, {
     "RK": "70",
-    "PLAYER NAME": "Dak Prescott",
-    "POS": "QB9",
-    "ADP Delta": "5"
+    "Player": "Dak Prescott",
+    "POS": "QB9"
 }, {
     "RK": "71",
-    "PLAYER NAME": "Najee Harris",
-    "POS": "RB25",
-    "ADP Delta": "-3"
+    "Player": "Najee Harris",
+    "POS": "RB25"
 }, {
     "RK": "72",
-    "PLAYER NAME": "Dallas Goedert",
-    "POS": "TE7",
-    "ADP Delta": "39"
+    "Player": "Dallas Goedert",
+    "POS": "TE7"
 }, {
     "RK": "73",
-    "PLAYER NAME": "Brian Thomas Jr.",
-    "POS": "WR32",
-    "ADP Delta": "36"
+    "Player": "Brian Thomas Jr.",
+    "POS": "WR32"
 }, {
     "RK": "74",
-    "PLAYER NAME": "Joe Burrow",
-    "POS": "QB10",
-    "ADP Delta": "-8"
+    "Player": "Joe Burrow",
+    "POS": "QB10"
 }, {
     "RK": "75",
-    "PLAYER NAME": "Zack Moss",
-    "POS": "RB26",
-    "ADP Delta": "11"
+    "Player": "Zack Moss",
+    "POS": "RB26"
 }, {
     "RK": "76",
-    "PLAYER NAME": "Tee Higgins",
-    "POS": "WR33",
-    "ADP Delta": "-16"
+    "Player": "Tee Higgins",
+    "POS": "WR33"
 }, {
     "RK": "77",
-    "PLAYER NAME": "Michael Pittman Jr.",
-    "POS": "WR34",
-    "ADP Delta": "-38"
+    "Player": "Michael Pittman Jr.",
+    "POS": "WR34"
 }, {
     "RK": "78",
-    "PLAYER NAME": "Jerome Ford",
-    "POS": "RB27",
-    "ADP Delta": "28"
+    "Player": "Jerome Ford",
+    "POS": "RB27"
 }, {
     "RK": "79",
-    "PLAYER NAME": "Calvin Ridley",
-    "POS": "WR35",
-    "ADP Delta": "-1"
+    "Player": "Calvin Ridley",
+    "POS": "WR35"
 }, {
     "RK": "80",
-    "PLAYER NAME": "Puka Nacua",
-    "POS": "WR36",
-    "ADP Delta": "-66"
+    "Player": "Puka Nacua",
+    "POS": "WR36"
 }, {
     "RK": "81",
-    "PLAYER NAME": "Chuba Hubbard",
-    "POS": "RB28",
-    "ADP Delta": "47"
+    "Player": "Chuba Hubbard",
+    "POS": "RB28"
 }, {
     "RK": "82",
-    "PLAYER NAME": "Xavier Worthy",
-    "POS": "WR37",
-    "ADP Delta": "5"
+    "Player": "Xavier Worthy",
+    "POS": "WR37"
 }, {
     "RK": "83",
-    "PLAYER NAME": "Rashid Shaheed",
-    "POS": "WR38",
-    "ADP Delta": "79"
+    "Player": "Rashid Shaheed",
+    "POS": "WR38"
 }, {
     "RK": "84",
-    "PLAYER NAME": "Travis Kelce",
-    "POS": "TE8",
-    "ADP Delta": "-58"
+    "Player": "Travis Kelce",
+    "POS": "TE8"
 }, {
     "RK": "85",
-    "PLAYER NAME": "Jaylen Waddle",
-    "POS": "WR39",
-    "ADP Delta": "-44"
+    "Player": "Jaylen Waddle",
+    "POS": "WR39"
 }, {
     "RK": "86",
-    "PLAYER NAME": "Cooper Kupp",
-    "POS": "WR40",
-    "ADP Delta": "-52"
+    "Player": "Cooper Kupp",
+    "POS": "WR40"
 }, {
     "RK": "87",
-    "PLAYER NAME": "Rachaad White",
-    "POS": "RB29",
-    "ADP Delta": "-52"
+    "Player": "Rachaad White",
+    "POS": "RB29"
 }, {
     "RK": "88",
-    "PLAYER NAME": "Brock Purdy",
-    "POS": "QB11",
-    "ADP Delta": "3"
+    "Player": "Brock Purdy",
+    "POS": "QB11"
 }, {
     "RK": "89",
-    "PLAYER NAME": "Rome Odunze",
-    "POS": "WR41",
-    "ADP Delta": "0"
+    "Player": "Rome Odunze",
+    "POS": "WR41"
 }, {
     "RK": "90",
-    "PLAYER NAME": "Kyle Pitts",
-    "POS": "TE9",
-    "ADP Delta": "-25"
+    "Player": "Kyle Pitts",
+    "POS": "TE9"
 }, {
     "RK": "91",
-    "PLAYER NAME": "Zach Charbonnet",
-    "POS": "RB30",
-    "ADP Delta": "50"
+    "Player": "Zach Charbonnet",
+    "POS": "RB30"
 }, {
     "RK": "92",
-    "PLAYER NAME": "Khalil Shakir",
-    "POS": "WR42",
-    "ADP Delta": "34"
+    "Player": "Khalil Shakir",
+    "POS": "WR42"
 }, {
     "RK": "93",
-    "PLAYER NAME": "Jonathon Brooks",
-    "POS": "RB31",
-    "ADP Delta": "4"
+    "Player": "Jonathon Brooks",
+    "POS": "RB31"
 }, {
     "RK": "94",
-    "PLAYER NAME": "Austin Ekeler",
-    "POS": "RB32",
-    "ADP Delta": "0"
+    "Player": "Austin Ekeler",
+    "POS": "RB32"
 }, {
     "RK": "95",
-    "PLAYER NAME": "Christian Kirk",
-    "POS": "WR43",
-    "ADP Delta": "-21"
+    "Player": "Christian Kirk",
+    "POS": "WR43"
 }, {
     "RK": "96",
-    "PLAYER NAME": "David Njoku",
-    "POS": "TE10",
-    "ADP Delta": "-11"
+    "Player": "David Njoku",
+    "POS": "TE10"
 }, {
     "RK": "97",
-    "PLAYER NAME": "Jordan Love",
-    "POS": "QB12",
-    "ADP Delta": "-24"
+    "Player": "Jordan Love",
+    "POS": "QB12"
 }, {
     "RK": "98",
-    "PLAYER NAME": "Rico Dowdle",
-    "POS": "RB33",
-    "ADP Delta": "33"
+    "Player": "Rico Dowdle",
+    "POS": "RB33"
 }, {
     "RK": "99",
-    "PLAYER NAME": "Keenan Allen",
-    "POS": "WR44",
-    "ADP Delta": "-23"
+    "Player": "Keenan Allen",
+    "POS": "WR44"
 }, {
     "RK": "100",
-    "PLAYER NAME": "Carson Steele",
-    "POS": "RB34",
-    "ADP Delta": "181"
+    "Player": "Carson Steele",
+    "POS": "RB34"
 }, {
     "RK": "101",
-    "PLAYER NAME": "Bucky Irving",
-    "POS": "RB35",
-    "ADP Delta": "71"
+    "Player": "Bucky Irving",
+    "POS": "RB35"
 }, {
     "RK": "102",
-    "PLAYER NAME": "Ladd McConkey",
-    "POS": "WR45",
-    "ADP Delta": "6"
+    "Player": "Ladd McConkey",
+    "POS": "WR45"
 }, {
     "RK": "103",
-    "PLAYER NAME": "Evan Engram",
-    "POS": "TE11",
-    "ADP Delta": "-32"
+    "Player": "Evan Engram",
+    "POS": "TE11"
 }, {
     "RK": "104",
-    "PLAYER NAME": "Christian Watson",
-    "POS": "WR46",
-    "ADP Delta": "-4"
+    "Player": "Christian Watson",
+    "POS": "WR46"
 }, {
     "RK": "105",
-    "PLAYER NAME": "Braelon Allen",
-    "POS": "RB36",
-    "ADP Delta": "94"
+    "Player": "Braelon Allen",
+    "POS": "RB36"
 }, {
     "RK": "106",
-    "PLAYER NAME": "DeAndre Hopkins",
-    "POS": "WR47",
-    "ADP Delta": "1"
+    "Player": "DeAndre Hopkins",
+    "POS": "WR47"
 }, {
     "RK": "107",
-    "PLAYER NAME": "Jared Goff",
-    "POS": "QB13",
-    "ADP Delta": "-2"
+    "Player": "Jared Goff",
+    "POS": "QB13"
 }, {
     "RK": "108",
-    "PLAYER NAME": "Chase Brown",
-    "POS": "RB37",
-    "ADP Delta": "-4"
+    "Player": "Chase Brown",
+    "POS": "RB37"
 }, {
     "RK": "109",
-    "PLAYER NAME": "Mark Andrews",
-    "POS": "TE12",
-    "ADP Delta": "-59"
+    "Player": "Mark Andrews",
+    "POS": "TE12"
 }, {
     "RK": "110",
-    "PLAYER NAME": "Jauan Jennings",
-    "POS": "WR48",
-    "ADP Delta": "-"
+    "Player": "Jauan Jennings",
+    "POS": "WR48"
 }, {
     "RK": "111",
-    "PLAYER NAME": "Javonte Williams",
-    "POS": "RB38",
-    "ADP Delta": "-32"
+    "Player": "Javonte Williams",
+    "POS": "RB38"
 }, {
     "RK": "112",
-    "PLAYER NAME": "Geno Smith",
-    "POS": "QB14",
-    "ADP Delta": "77"
+    "Player": "Geno Smith",
+    "POS": "QB14"
 }, {
     "RK": "113",
-    "PLAYER NAME": "Romeo Doubs",
-    "POS": "WR49",
-    "ADP Delta": "23"
+    "Player": "Romeo Doubs",
+    "POS": "WR49"
 }, {
     "RK": "114",
-    "PLAYER NAME": "Tyjae Spears",
-    "POS": "RB39",
-    "ADP Delta": "-16"
+    "Player": "Tyjae Spears",
+    "POS": "RB39"
 }, {
     "RK": "115",
-    "PLAYER NAME": "Courtland Sutton",
-    "POS": "WR50",
-    "ADP Delta": "-5"
+    "Player": "Courtland Sutton",
+    "POS": "WR50"
 }, {
     "RK": "116",
-    "PLAYER NAME": "T.J. Hockenson",
-    "POS": "TE13",
-    "ADP Delta": "11"
+    "Player": "T.J. Hockenson",
+    "POS": "TE13"
 }, {
     "RK": "117",
-    "PLAYER NAME": "Sam Darnold",
-    "POS": "QB15",
-    "ADP Delta": "107"
+    "Player": "Sam Darnold",
+    "POS": "QB15"
 }, {
     "RK": "118",
-    "PLAYER NAME": "D'Andre Swift",
-    "POS": "RB40",
-    "ADP Delta": "-56"
+    "Player": "D'Andre Swift",
+    "POS": "RB40"
 }, {
     "RK": "119",
-    "PLAYER NAME": "Jordan Addison",
-    "POS": "WR51",
-    "ADP Delta": "-16"
+    "Player": "Jordan Addison",
+    "POS": "WR51"
 }, {
     "RK": "120",
-    "PLAYER NAME": "Darnell Mooney",
-    "POS": "WR52",
-    "ADP Delta": "80"
+    "Player": "Darnell Mooney",
+    "POS": "WR52"
 }, {
     "RK": "121",
-    "PLAYER NAME": "Jaylen Warren",
-    "POS": "RB41",
-    "ADP Delta": "-33"
+    "Player": "Jaylen Warren",
+    "POS": "RB41"
 }, {
     "RK": "122",
-    "PLAYER NAME": "Baker Mayfield",
-    "POS": "QB16",
-    "ADP Delta": "30"
+    "Player": "Baker Mayfield",
+    "POS": "QB16"
 }, {
     "RK": "123",
-    "PLAYER NAME": "Ty Chandler",
-    "POS": "RB42",
-    "ADP Delta": "24"
+    "Player": "Ty Chandler",
+    "POS": "RB42"
 }, {
     "RK": "124",
-    "PLAYER NAME": "Tyler Allgeier",
-    "POS": "RB43",
-    "ADP Delta": "34"
+    "Player": "Tyler Allgeier",
+    "POS": "RB43"
 }, {
     "RK": "125",
-    "PLAYER NAME": "Cole Kmet",
-    "POS": "TE14",
-    "ADP Delta": "14"
+    "Player": "Cole Kmet",
+    "POS": "TE14"
 }, {
     "RK": "126",
-    "PLAYER NAME": "Derek Carr",
-    "POS": "QB17",
-    "ADP Delta": "89"
+    "Player": "Derek Carr",
+    "POS": "QB17"
 }, {
     "RK": "127",
-    "PLAYER NAME": "Nick Chubb",
-    "POS": "RB44",
-    "ADP Delta": "-35"
+    "Player": "Nick Chubb",
+    "POS": "RB44"
 }, {
     "RK": "128",
-    "PLAYER NAME": "Keon Coleman",
-    "POS": "WR53",
-    "ADP Delta": "-11"
+    "Player": "Keon Coleman",
+    "POS": "WR53"
 }, {
     "RK": "129",
-    "PLAYER NAME": "Isaiah Likely",
-    "POS": "TE15",
-    "ADP Delta": "44"
+    "Player": "Isaiah Likely",
+    "POS": "TE15"
 }, {
     "RK": "130",
-    "PLAYER NAME": "Justin Fields",
-    "POS": "QB18",
-    "ADP Delta": "54"
+    "Player": "Justin Fields",
+    "POS": "QB18"
 }, {
     "RK": "131",
-    "PLAYER NAME": "Jakobi Meyers",
-    "POS": "WR54",
-    "ADP Delta": "14"
+    "Player": "Jakobi Meyers",
+    "POS": "WR54"
 }, {
     "RK": "132",
-    "PLAYER NAME": "Jerry Jeudy",
-    "POS": "WR55",
-    "ADP Delta": "16"
+    "Player": "Jerry Jeudy",
+    "POS": "WR55"
 }, {
     "RK": "133",
-    "PLAYER NAME": "Raheem Mostert",
-    "POS": "RB45",
-    "ADP Delta": "-61"
+    "Player": "Raheem Mostert",
+    "POS": "RB45"
 }, {
     "RK": "134",
-    "PLAYER NAME": "Tyler Lockett",
-    "POS": "WR56",
-    "ADP Delta": "4"
+    "Player": "Tyler Lockett",
+    "POS": "WR56"
 }, {
     "RK": "135",
-    "PLAYER NAME": "Tucker Kraft",
-    "POS": "TE16",
-    "ADP Delta": "173"
+    "Player": "Tucker Kraft",
+    "POS": "TE16"
 }, {
     "RK": "136",
-    "PLAYER NAME": "Quentin Johnston",
-    "POS": "WR57",
-    "ADP Delta": "74"
+    "Player": "Quentin Johnston",
+    "POS": "WR57"
 }, {
     "RK": "137",
-    "PLAYER NAME": "Pat Freiermuth",
-    "POS": "TE17",
-    "ADP Delta": "-7"
+    "Player": "Pat Freiermuth",
+    "POS": "TE17"
 }, {
     "RK": "138",
-    "PLAYER NAME": "Trevor Lawrence",
-    "POS": "QB19",
-    "ADP Delta": "-17"
+    "Player": "Trevor Lawrence",
+    "POS": "QB19"
 }, {
     "RK": "139",
-    "PLAYER NAME": "Caleb Williams",
-    "POS": "QB20",
-    "ADP Delta": "-43"
+    "Player": "Caleb Williams",
+    "POS": "QB20"
 }, {
     "RK": "140",
-    "PLAYER NAME": "Hunter Henry",
-    "POS": "TE18",
-    "ADP Delta": "51"
+    "Player": "Hunter Henry",
+    "POS": "TE18"
 }, {
     "RK": "141",
-    "PLAYER NAME": "Gus Edwards",
-    "POS": "RB46",
-    "ADP Delta": "-29"
+    "Player": "Gus Edwards",
+    "POS": "RB46"
 }, {
     "RK": "142",
-    "PLAYER NAME": "Zamir White",
-    "POS": "RB47",
-    "ADP Delta": "-73"
+    "Player": "Zamir White",
+    "POS": "RB47"
 }, {
     "RK": "143",
-    "PLAYER NAME": "Aaron Rodgers",
-    "POS": "QB21",
-    "ADP Delta": "-9"
+    "Player": "Aaron Rodgers",
+    "POS": "QB21"
 }, {
     "RK": "144",
-    "PLAYER NAME": "Isiah Pacheco",
-    "POS": "RB48",
-    "ADP Delta": "-123"
+    "Player": "Isiah Pacheco",
+    "POS": "RB48"
 }, {
     "RK": "145",
-    "PLAYER NAME": "Demarcus Robinson",
-    "POS": "WR58",
-    "ADP Delta": "120"
+    "Player": "Demarcus Robinson",
+    "POS": "WR58"
 }, {
     "RK": "146",
-    "PLAYER NAME": "Matthew Stafford",
-    "POS": "QB22",
-    "ADP Delta": "0"
+    "Player": "Matthew Stafford",
+    "POS": "QB22"
 }, {
     "RK": "147",
-    "PLAYER NAME": "Kirk Cousins",
-    "POS": "QB23",
-    "ADP Delta": "-10"
+    "Player": "Kirk Cousins",
+    "POS": "QB23"
 }, {
     "RK": "148",
-    "PLAYER NAME": "Ray Davis",
-    "POS": "RB49",
-    "ADP Delta": "7"
+    "Player": "Ray Davis",
+    "POS": "RB49"
 }, {
     "RK": "149",
-    "PLAYER NAME": "Mike Williams",
-    "POS": "WR59",
-    "ADP Delta": "12"
+    "Player": "Mike Williams",
+    "POS": "WR59"
 }, {
     "RK": "150",
-    "PLAYER NAME": "Alexander Mattison",
-    "POS": "RB50",
-    "ADP Delta": "72"
+    "Player": "Alexander Mattison",
+    "POS": "RB50"
 }, {
     "RK": "151",
-    "PLAYER NAME": "Zach Ertz",
-    "POS": "TE19",
-    "ADP Delta": "47"
+    "Player": "Zach Ertz",
+    "POS": "TE19"
 }, {
     "RK": "152",
-    "PLAYER NAME": "Mike Gesicki",
-    "POS": "TE20",
-    "ADP Delta": "109"
+    "Player": "Mike Gesicki",
+    "POS": "TE20"
 }, {
     "RK": "153",
-    "PLAYER NAME": "Cam Akers",
-    "POS": "RB51",
-    "ADP Delta": "127"
+    "Player": "Cam Akers",
+    "POS": "RB51"
 }, {
     "RK": "154",
-    "PLAYER NAME": "Samaje Perine",
-    "POS": "RB52",
-    "ADP Delta": "103"
+    "Player": "Samaje Perine",
+    "POS": "RB52"
 }, {
     "RK": "155",
-    "PLAYER NAME": "Jaleel McLaughlin",
-    "POS": "RB53",
-    "ADP Delta": "-4"
+    "Player": "Jaleel McLaughlin",
+    "POS": "RB53"
 }, {
     "RK": "156",
-    "PLAYER NAME": "Brandin Cooks",
-    "POS": "WR60",
-    "ADP Delta": "0"
+    "Player": "Brandin Cooks",
+    "POS": "WR60"
 }, {
     "RK": "157",
-    "PLAYER NAME": "Dalton Schultz",
-    "POS": "TE21",
-    "ADP Delta": "-34"
+    "Player": "Dalton Schultz",
+    "POS": "TE21"
 }, {
     "RK": "158",
-    "PLAYER NAME": "Josh Downs",
-    "POS": "WR61",
-    "ADP Delta": "24"
+    "Player": "Josh Downs",
+    "POS": "WR61"
 }, {
     "RK": "159",
-    "PLAYER NAME": "Jalen Tolbert",
-    "POS": "WR62",
-    "ADP Delta": "110"
+    "Player": "Jalen Tolbert",
+    "POS": "WR62"
 }, {
     "RK": "160",
-    "PLAYER NAME": "Wan'Dale Robinson",
-    "POS": "WR63",
-    "ADP Delta": "73"
+    "Player": "Wan'Dale Robinson",
+    "POS": "WR63"
 }, {
     "RK": "161",
-    "PLAYER NAME": "Deshaun Watson",
-    "POS": "QB24",
-    "ADP Delta": "17"
+    "Player": "Deshaun Watson",
+    "POS": "QB24"
 }, {
     "RK": "162",
-    "PLAYER NAME": "Andrei Iosivas",
-    "POS": "WR64",
-    "ADP Delta": "126"
+    "Player": "Andrei Iosivas",
+    "POS": "WR64"
 }, {
     "RK": "163",
-    "PLAYER NAME": "Tank Bigsby",
-    "POS": "RB54",
-    "ADP Delta": "53"
+    "Player": "Tank Bigsby",
+    "POS": "RB54"
 }, {
     "RK": "164",
-    "PLAYER NAME": "Blake Corum",
-    "POS": "RB55",
-    "ADP Delta": "-45"
+    "Player": "Blake Corum",
+    "POS": "RB55"
 }, {
     "RK": "165",
-    "PLAYER NAME": "Justin Herbert",
-    "POS": "QB25",
-    "ADP Delta": "-40"
+    "Player": "Justin Herbert",
+    "POS": "QB25"
 }, {
     "RK": "166",
-    "PLAYER NAME": "Taysom Hill",
-    "POS": "TE22",
-    "ADP Delta": "-7"
+    "Player": "Taysom Hill",
+    "POS": "TE22"
 }, {
     "RK": "167",
-    "PLAYER NAME": "Roschon Johnson",
-    "POS": "RB56",
-    "ADP Delta": "65"
+    "Player": "Roschon Johnson",
+    "POS": "RB56"
 }, {
     "RK": "168",
-    "PLAYER NAME": "Colby Parkinson",
-    "POS": "TE23",
-    "ADP Delta": "114"
+    "Player": "Colby Parkinson",
+    "POS": "TE23"
 }, {
     "RK": "169",
-    "PLAYER NAME": "Jaylen Wright",
-    "POS": "RB57",
-    "ADP Delta": "-25"
+    "Player": "Jaylen Wright",
+    "POS": "RB57"
 }, {
     "RK": "170",
-    "PLAYER NAME": "Noah Fant",
-    "POS": "TE24",
-    "ADP Delta": "33"
+    "Player": "Noah Fant",
+    "POS": "TE24"
 }, {
     "RK": "171",
-    "PLAYER NAME": "Ezekiel Elliott",
-    "POS": "RB58",
-    "ADP Delta": "-58"
+    "Player": "Ezekiel Elliott",
+    "POS": "RB58"
 }, {
     "RK": "172",
-    "PLAYER NAME": "Alec Pierce",
-    "POS": "WR65",
-    "ADP Delta": "160"
+    "Player": "Alec Pierce",
+    "POS": "WR65"
 }, {
     "RK": "173",
-    "PLAYER NAME": "Khalil Herbert",
-    "POS": "RB59",
-    "ADP Delta": "6"
+    "Player": "Khalil Herbert",
+    "POS": "RB59"
 }, {
     "RK": "174",
-    "PLAYER NAME": "D'Onta Foreman",
-    "POS": "RB60",
-    "ADP Delta": "109"
+    "Player": "D'Onta Foreman",
+    "POS": "RB60"
 }, {
     "RK": "175",
-    "PLAYER NAME": "Gabe Davis",
-    "POS": "WR66",
-    "ADP Delta": "-8"
+    "Player": "Gabe Davis",
+    "POS": "WR66"
 }, {
     "RK": "176",
-    "PLAYER NAME": "Jalen McMillan",
-    "POS": "WR67",
-    "ADP Delta": "78"
+    "Player": "Jalen McMillan",
+    "POS": "WR67"
 }, {
     "RK": "177",
-    "PLAYER NAME": "Tyler Conklin",
-    "POS": "TE25",
-    "ADP Delta": "10"
+    "Player": "Tyler Conklin",
+    "POS": "TE25"
 }, {
     "RK": "178",
-    "PLAYER NAME": "Antonio Gibson",
-    "POS": "RB61",
-    "ADP Delta": "-21"
+    "Player": "Antonio Gibson",
+    "POS": "RB61"
 }, {
     "RK": "179",
-    "PLAYER NAME": "Trey Benson",
-    "POS": "RB62",
-    "ADP Delta": "-63"
+    "Player": "Trey Benson",
+    "POS": "RB62"
 }, {
     "RK": "180",
-    "PLAYER NAME": "DeMario Douglas",
-    "POS": "WR68",
-    "ADP Delta": "32"
+    "Player": "DeMario Douglas",
+    "POS": "WR68"
 }, {
     "RK": "181",
-    "PLAYER NAME": "Daniel Jones",
-    "POS": "QB26",
-    "ADP Delta": "36"
+    "Player": "Daniel Jones",
+    "POS": "QB26"
 }, {
     "RK": "182",
-    "PLAYER NAME": "Michael Wilson",
-    "POS": "WR69",
-    "ADP Delta": "20"
+    "Player": "Michael Wilson",
+    "POS": "WR69"
 }, {
     "RK": "183",
-    "PLAYER NAME": "Dontayvion Wicks",
-    "POS": "WR70",
-    "ADP Delta": "-30"
+    "Player": "Dontayvion Wicks",
+    "POS": "WR70"
 }, {
     "RK": "184",
-    "PLAYER NAME": "Tyrone Tracy Jr.",
-    "POS": "RB63",
-    "ADP Delta": "20"
+    "Player": "Tyrone Tracy Jr.",
+    "POS": "RB63"
 }, {
     "RK": "185",
-    "PLAYER NAME": "Greg Dortch",
-    "POS": "WR71",
-    "ADP Delta": "66"
+    "Player": "Greg Dortch",
+    "POS": "WR71"
 }, {
     "RK": "186",
-    "PLAYER NAME": "Justice Hill",
-    "POS": "RB64",
-    "ADP Delta": "59"
+    "Player": "Justice Hill",
+    "POS": "RB64"
 }, {
     "RK": "187",
-    "PLAYER NAME": "Rashod Bateman",
-    "POS": "WR72",
-    "ADP Delta": "55"
+    "Player": "Rashod Bateman",
+    "POS": "WR72"
 }, {
     "RK": "188",
-    "PLAYER NAME": "Emanuel Wilson",
-    "POS": "RB65",
-    "ADP Delta": "139"
+    "Player": "Emanuel Wilson",
+    "POS": "RB65"
 }, {
     "RK": "189",
-    "PLAYER NAME": "Jalen Nailor",
-    "POS": "WR73",
-    "ADP Delta": "146"
+    "Player": "Jalen Nailor",
+    "POS": "WR73"
 }, {
     "RK": "190",
-    "PLAYER NAME": "Cade Otton",
-    "POS": "TE26",
-    "ADP Delta": "4"
+    "Player": "Cade Otton",
+    "POS": "TE26"
 }, {
     "RK": "191",
-    "PLAYER NAME": "Clyde Edwards-Helaire",
-    "POS": "RB66",
-    "ADP Delta": "58"
+    "Player": "Clyde Edwards-Helaire",
+    "POS": "RB66"
 }, {
     "RK": "192",
-    "PLAYER NAME": "Luke McCaffrey",
-    "POS": "WR74",
-    "ADP Delta": "36"
+    "Player": "Luke McCaffrey",
+    "POS": "WR74"
 }, {
     "RK": "193",
-    "PLAYER NAME": "Allen Lazard",
-    "POS": "WR75",
-    "ADP Delta": "-"
+    "Player": "Allen Lazard",
+    "POS": "WR75"
 }, {
     "RK": "194",
-    "PLAYER NAME": "New York Jets",
-    "POS": "DST1",
-    "ADP Delta": "-70"
+    "Player": "New York Jets",
+    "POS": "DST1"
 }, {
     "RK": "195",
-    "PLAYER NAME": "Andy Dalton",
-    "POS": "QB27",
-    "ADP Delta": "-"
+    "Player": "Andy Dalton",
+    "POS": "QB27"
 }, {
     "RK": "196",
-    "PLAYER NAME": "Xavier Legette",
-    "POS": "WR76",
-    "ADP Delta": "-26"
+    "Player": "Xavier Legette",
+    "POS": "WR76"
 }, {
     "RK": "197",
-    "PLAYER NAME": "Bo Nix",
-    "POS": "QB28",
-    "ADP Delta": "-22"
+    "Player": "Bo Nix",
+    "POS": "QB28"
 }, {
     "RK": "198",
-    "PLAYER NAME": "Pittsburgh Steelers",
-    "POS": "DST2",
-    "ADP Delta": "-30"
+    "Player": "Pittsburgh Steelers",
+    "POS": "DST2"
 }, {
     "RK": "199",
-    "PLAYER NAME": "Elijah Moore",
-    "POS": "WR77",
-    "ADP Delta": "100"
+    "Player": "Elijah Moore",
+    "POS": "WR77"
 }, {
     "RK": "200",
-    "PLAYER NAME": "Will Levis",
-    "POS": "QB29",
-    "ADP Delta": "-29"
+    "Player": "Will Levis",
+    "POS": "QB29"
 }, {
     "RK": "201",
-    "PLAYER NAME": "New Orleans Saints",
-    "POS": "DST3",
-    "ADP Delta": "7"
+    "Player": "New Orleans Saints",
+    "POS": "DST3"
 }, {
     "RK": "202",
-    "PLAYER NAME": "Jamaal Williams",
-    "POS": "RB67",
-    "ADP Delta": "34"
+    "Player": "Jamaal Williams",
+    "POS": "RB67"
 }, {
     "RK": "203",
-    "PLAYER NAME": "Joshua Palmer",
-    "POS": "WR78",
-    "ADP Delta": "-61"
+    "Player": "Joshua Palmer",
+    "POS": "WR78"
 }, {
     "RK": "204",
-    "PLAYER NAME": "Trey Sermon",
-    "POS": "RB68",
-    "ADP Delta": "66"
+    "Player": "Trey Sermon",
+    "POS": "RB68"
 }, {
     "RK": "205",
-    "PLAYER NAME": "Brandon Aubrey",
-    "POS": "K1",
-    "ADP Delta": "-91"
+    "Player": "Brandon Aubrey",
+    "POS": "K1"
 }, {
     "RK": "206",
-    "PLAYER NAME": "Cordarrelle Patterson",
-    "POS": "RB69",
-    "ADP Delta": "101"
+    "Player": "Cordarrelle Patterson",
+    "POS": "RB69"
 }, {
     "RK": "207",
-    "PLAYER NAME": "Kansas City Chiefs",
-    "POS": "DST4",
-    "ADP Delta": "-38"
+    "Player": "Kansas City Chiefs",
+    "POS": "DST4"
 }, {
     "RK": "208",
-    "PLAYER NAME": "San Francisco 49ers",
-    "POS": "DST5",
-    "ADP Delta": "-86"
+    "Player": "San Francisco 49ers",
+    "POS": "DST5"
 }, {
     "RK": "209",
-    "PLAYER NAME": "Baltimore Ravens",
-    "POS": "DST6",
-    "ADP Delta": "-77"
+    "Player": "Baltimore Ravens",
+    "POS": "DST6"
 }, {
     "RK": "210",
-    "PLAYER NAME": "Gardner Minshew II",
-    "POS": "QB30",
-    "ADP Delta": "31"
+    "Player": "Gardner Minshew II",
+    "POS": "QB30"
 }, {
     "RK": "211",
-    "PLAYER NAME": "Greg Dulcich",
-    "POS": "TE27",
-    "ADP Delta": "62"
+    "Player": "Greg Dulcich",
+    "POS": "TE27"
 }, {
     "RK": "212",
-    "PLAYER NAME": "Justin Tucker",
-    "POS": "K2",
-    "ADP Delta": "-97"
+    "Player": "Justin Tucker",
+    "POS": "K2"
 }, {
     "RK": "213",
-    "PLAYER NAME": "Buffalo Bills",
-    "POS": "DST7",
-    "ADP Delta": "-25"
+    "Player": "Buffalo Bills",
+    "POS": "DST7"
 }, {
     "RK": "214",
-    "PLAYER NAME": "Jonnu Smith",
-    "POS": "TE28",
-    "ADP Delta": "-24"
+    "Player": "Jonnu Smith",
+    "POS": "TE28"
 }, {
     "RK": "215",
-    "PLAYER NAME": "Cleveland Browns",
-    "POS": "DST8",
-    "ADP Delta": "-66"
+    "Player": "Cleveland Browns",
+    "POS": "DST8"
 }, {
     "RK": "216",
-    "PLAYER NAME": "Kenneth Gainwell",
-    "POS": "RB70",
-    "ADP Delta": "36"
+    "Player": "Kenneth Gainwell",
+    "POS": "RB70"
 }, {
     "RK": "217",
-    "PLAYER NAME": "Dallas Cowboys",
-    "POS": "DST9",
-    "ADP Delta": "-82"
+    "Player": "Dallas Cowboys",
+    "POS": "DST9"
 }, {
     "RK": "218",
-    "PLAYER NAME": "Ricky Pearsall",
-    "POS": "WR79",
-    "ADP Delta": "20"
+    "Player": "Ricky Pearsall",
+    "POS": "WR79"
 }, {
     "RK": "219",
-    "PLAYER NAME": "MarShawn Lloyd",
-    "POS": "RB71",
-    "ADP Delta": "-65"
+    "Player": "MarShawn Lloyd",
+    "POS": "RB71"
 }, {
     "RK": "220",
-    "PLAYER NAME": "Harrison Butker",
-    "POS": "K3",
-    "ADP Delta": "-100"
+    "Player": "Harrison Butker",
+    "POS": "K3"
 }, {
     "RK": "221",
-    "PLAYER NAME": "Audric Estime",
-    "POS": "RB72",
-    "ADP Delta": "4"
+    "Player": "Audric Estime",
+    "POS": "RB72"
 }, {
     "RK": "222",
-    "PLAYER NAME": "Philadelphia Eagles",
-    "POS": "DST10",
-    "ADP Delta": "-25"
+    "Player": "Philadelphia Eagles",
+    "POS": "DST10"
 }, {
     "RK": "223",
-    "PLAYER NAME": "Ty Johnson",
-    "POS": "RB73",
-    "ADP Delta": "-"
+    "Player": "Ty Johnson",
+    "POS": "RB73"
 }, {
     "RK": "224",
-    "PLAYER NAME": "Ka'imi Fairbairn",
-    "POS": "K4",
-    "ADP Delta": "-81"
+    "Player": "Ka'imi Fairbairn",
+    "POS": "K4"
 }, {
     "RK": "225",
-    "PLAYER NAME": "Houston Texans",
-    "POS": "DST11",
-    "ADP Delta": "-20"
+    "Player": "Houston Texans",
+    "POS": "DST11"
 }, {
     "RK": "226",
-    "PLAYER NAME": "Noah Brown",
-    "POS": "WR80",
-    "ADP Delta": "92"
+    "Player": "Noah Brown",
+    "POS": "WR80"
 }, {
     "RK": "227",
-    "PLAYER NAME": "Drake Maye",
-    "POS": "QB31",
-    "ADP Delta": "-7"
+    "Player": "Drake Maye",
+    "POS": "QB31"
 }, {
     "RK": "228",
-    "PLAYER NAME": "Jordan Whittington",
-    "POS": "WR81",
-    "ADP Delta": "86"
+    "Player": "Jordan Whittington",
+    "POS": "WR81"
 }, {
     "RK": "229",
-    "PLAYER NAME": "Isaac Guerendo",
-    "POS": "RB74",
-    "ADP Delta": "45"
+    "Player": "Isaac Guerendo",
+    "POS": "RB74"
 }, {
     "RK": "230",
-    "PLAYER NAME": "Kareem Hunt",
-    "POS": "RB75",
-    "ADP Delta": "48"
+    "Player": "Kareem Hunt",
+    "POS": "RB75"
 }, {
     "RK": "231",
-    "PLAYER NAME": "Jake Moody",
-    "POS": "K5",
-    "ADP Delta": "-81"
+    "Player": "Jake Moody",
+    "POS": "K5"
 }, {
     "RK": "232",
-    "PLAYER NAME": "Kimani Vidal",
-    "POS": "RB76",
-    "ADP Delta": "-56"
+    "Player": "Kimani Vidal",
+    "POS": "RB76"
 }, {
     "RK": "233",
-    "PLAYER NAME": "Chicago Bears",
-    "POS": "DST12",
-    "ADP Delta": "-6"
+    "Player": "Chicago Bears",
+    "POS": "DST12"
 }, {
     "RK": "234",
-    "PLAYER NAME": "Tutu Atwell",
-    "POS": "WR82",
-    "ADP Delta": "-"
+    "Player": "Tutu Atwell",
+    "POS": "WR82"
 }, {
     "RK": "235",
-    "PLAYER NAME": "Hayden Hurst",
-    "POS": "TE29",
-    "ADP Delta": "42"
+    "Player": "Hayden Hurst",
+    "POS": "TE29"
 }, {
     "RK": "236",
-    "PLAYER NAME": "Ja'Lynn Polk",
-    "POS": "WR83",
-    "ADP Delta": "-62"
+    "Player": "Ja'Lynn Polk",
+    "POS": "WR83"
 }, {
     "RK": "237",
-    "PLAYER NAME": "Detroit Lions",
-    "POS": "DST13",
-    "ADP Delta": "-23"
+    "Player": "Detroit Lions",
+    "POS": "DST13"
 }, {
     "RK": "238",
-    "PLAYER NAME": "Juwan Johnson",
-    "POS": "TE30",
-    "ADP Delta": "17"
+    "Player": "Juwan Johnson",
+    "POS": "TE30"
 }, {
     "RK": "239",
-    "PLAYER NAME": "Theo Johnson",
-    "POS": "TE31",
-    "ADP Delta": "32"
+    "Player": "Theo Johnson",
+    "POS": "TE31"
 }, {
     "RK": "240",
-    "PLAYER NAME": "Gerald Everett",
-    "POS": "TE32",
-    "ADP Delta": "-"
+    "Player": "Gerald Everett",
+    "POS": "TE32"
 }, {
     "RK": "241",
-    "PLAYER NAME": "Jake Elliott",
-    "POS": "K6",
-    "ADP Delta": "-101"
+    "Player": "Jake Elliott",
+    "POS": "K6"
 }, {
     "RK": "242",
-    "PLAYER NAME": "Seattle Seahawks",
-    "POS": "DST14",
-    "ADP Delta": "-31"
+    "Player": "Seattle Seahawks",
+    "POS": "DST14"
 }, {
     "RK": "243",
-    "PLAYER NAME": "Younghoe Koo",
-    "POS": "K7",
-    "ADP Delta": "-77"
+    "Player": "Younghoe Koo",
+    "POS": "K7"
 }, {
     "RK": "244",
-    "PLAYER NAME": "Brenton Strange",
-    "POS": "TE33",
-    "ADP Delta": "-"
+    "Player": "Brenton Strange",
+    "POS": "TE33"
 }, {
     "RK": "245",
-    "PLAYER NAME": "Curtis Samuel",
-    "POS": "WR84",
-    "ADP Delta": "-112"
+    "Player": "Curtis Samuel",
+    "POS": "WR84"
 }, {
     "RK": "246",
-    "PLAYER NAME": "Josh Reynolds",
-    "POS": "WR85",
-    "ADP Delta": "82"
+    "Player": "Josh Reynolds",
+    "POS": "WR85"
 }, {
     "RK": "247",
-    "PLAYER NAME": "Matt Prater",
-    "POS": "K8",
-    "ADP Delta": "12"
+    "Player": "Matt Prater",
+    "POS": "K8"
 }, {
     "RK": "248",
-    "PLAYER NAME": "Ray-Ray McCloud III",
-    "POS": "WR86",
-    "ADP Delta": "-"
+    "Player": "Ray-Ray McCloud III",
+    "POS": "WR86"
 }, {
     "RK": "249",
-    "PLAYER NAME": "Minnesota Vikings",
-    "POS": "DST15",
-    "ADP Delta": "-2"
+    "Player": "Minnesota Vikings",
+    "POS": "DST15"
 }, {
     "RK": "250",
-    "PLAYER NAME": "Evan McPherson",
-    "POS": "K9",
-    "ADP Delta": "-85"
+    "Player": "Evan McPherson",
+    "POS": "K9"
 }, {
     "RK": "251",
-    "PLAYER NAME": "Ronnie Rivers",
-    "POS": "RB77",
-    "ADP Delta": "-"
+    "Player": "Ronnie Rivers",
+    "POS": "RB77"
 }, {
     "RK": "252",
-    "PLAYER NAME": "Adam Thielen",
-    "POS": "WR87",
-    "ADP Delta": "-92"
+    "Player": "Adam Thielen",
+    "POS": "WR87"
 }, {
     "RK": "253",
-    "PLAYER NAME": "Tyler Bass",
-    "POS": "K10",
-    "ADP Delta": "-68"
+    "Player": "Tyler Bass",
+    "POS": "K10"
 }, {
     "RK": "254",
-    "PLAYER NAME": "Chig Okonkwo",
-    "POS": "TE34",
-    "ADP Delta": "-61"
+    "Player": "Chig Okonkwo",
+    "POS": "TE34"
 }, {
     "RK": "255",
-    "PLAYER NAME": "Cairo Santos",
-    "POS": "K11",
-    "ADP Delta": "-9"
+    "Player": "Cairo Santos",
+    "POS": "K11"
 }, {
     "RK": "256",
-    "PLAYER NAME": "Los Angeles Chargers",
-    "POS": "DST16",
-    "ADP Delta": "70"
+    "Player": "Los Angeles Chargers",
+    "POS": "DST16"
 }, {
     "RK": "257",
-    "PLAYER NAME": "Jason Myers",
-    "POS": "K12",
-    "ADP Delta": "-61"
+    "Player": "Jason Myers",
+    "POS": "K12"
 }, {
     "RK": "258",
-    "PLAYER NAME": "Adonai Mitchell",
-    "POS": "WR88",
-    "ADP Delta": "-95"
+    "Player": "Adonai Mitchell",
+    "POS": "WR88"
 }, {
     "RK": "259",
-    "PLAYER NAME": "Jacoby Brissett",
-    "POS": "QB32",
-    "ADP Delta": "5"
+    "Player": "Jacoby Brissett",
+    "POS": "QB32"
 }, {
     "RK": "260",
-    "PLAYER NAME": "Cincinnati Bengals",
-    "POS": "DST17",
-    "ADP Delta": "-30"
+    "Player": "Cincinnati Bengals",
+    "POS": "DST17"
 }, {
     "RK": "261",
-    "PLAYER NAME": "Indianapolis Colts",
-    "POS": "DST18",
-    "ADP Delta": "-22"
+    "Player": "Indianapolis Colts",
+    "POS": "DST18"
 }, {
     "RK": "262",
-    "PLAYER NAME": "Tyler Johnson",
-    "POS": "WR89",
-    "ADP Delta": "-"
+    "Player": "Tyler Johnson",
+    "POS": "WR89"
 }, {
     "RK": "263",
-    "PLAYER NAME": "Green Bay Packers",
-    "POS": "DST19",
-    "ADP Delta": "-19"
+    "Player": "Green Bay Packers",
+    "POS": "DST19"
 }, {
     "RK": "264",
-    "PLAYER NAME": "Jahan Dotson",
-    "POS": "WR90",
-    "ADP Delta": "-83"
+    "Player": "Jahan Dotson",
+    "POS": "WR90"
 }, {
     "RK": "265",
-    "PLAYER NAME": "Ja'Tavion Sanders",
-    "POS": "TE35",
-    "ADP Delta": "-7"
+    "Player": "Ja'Tavion Sanders",
+    "POS": "TE35"
 }, {
     "RK": "266",
-    "PLAYER NAME": "Blake Grupe",
-    "POS": "K13",
-    "ADP Delta": "-"
+    "Player": "Blake Grupe",
+    "POS": "K13"
 }, {
     "RK": "267",
-    "PLAYER NAME": "Miles Sanders",
-    "POS": "RB78",
-    "ADP Delta": "19"
+    "Player": "Miles Sanders",
+    "POS": "RB78"
 }, {
     "RK": "268",
-    "PLAYER NAME": "Tyler Boyd",
-    "POS": "WR91",
-    "ADP Delta": "-1"
+    "Player": "Tyler Boyd",
+    "POS": "WR91"
 }, {
     "RK": "269",
-    "PLAYER NAME": "Chris Boswell",
-    "POS": "K14",
-    "ADP Delta": "-29"
+    "Player": "Chris Boswell",
+    "POS": "K14"
 }, {
     "RK": "270",
-    "PLAYER NAME": "Keaton Mitchell",
-    "POS": "RB79",
-    "ADP Delta": "-8"
+    "Player": "Keaton Mitchell",
+    "POS": "RB79"
 }, {
     "RK": "271",
-    "PLAYER NAME": "Erick All Jr.",
-    "POS": "TE36",
-    "ADP Delta": "-"
+    "Player": "Erick All Jr.",
+    "POS": "TE36"
 }, {
     "RK": "272",
-    "PLAYER NAME": "Greg Zuerlein",
-    "POS": "K15",
-    "ADP Delta": "-22"
+    "Player": "Greg Zuerlein",
+    "POS": "K15"
 }, {
     "RK": "273",
-    "PLAYER NAME": "Dameon Pierce",
-    "POS": "RB80",
-    "ADP Delta": "-44"
+    "Player": "Dameon Pierce",
+    "POS": "RB80"
 }, {
     "RK": "274",
-    "PLAYER NAME": "Cameron Dicker",
-    "POS": "K16",
-    "ADP Delta": "-82"
+    "Player": "Cameron Dicker",
+    "POS": "K16"
 }, {
     "RK": "275",
-    "PLAYER NAME": "Russell Wilson",
-    "POS": "QB33",
-    "ADP Delta": "-92"
+    "Player": "Russell Wilson",
+    "POS": "QB33"
 }, {
     "RK": "276",
-    "PLAYER NAME": "Darius Slayton",
-    "POS": "WR92",
-    "ADP Delta": "13"
+    "Player": "Darius Slayton",
+    "POS": "WR92"
 }, {
     "RK": "277",
-    "PLAYER NAME": "K.J. Osborn",
-    "POS": "WR93",
-    "ADP Delta": "52"
+    "Player": "K.J. Osborn",
+    "POS": "WR93"
 }, {
     "RK": "278",
-    "PLAYER NAME": "Jermaine Burton",
-    "POS": "WR94",
-    "ADP Delta": "-55"
+    "Player": "Jermaine Burton",
+    "POS": "WR94"
 }, {
     "RK": "279",
-    "PLAYER NAME": "Jeff Wilson Jr.",
-    "POS": "RB81",
-    "ADP Delta": "52"
+    "Player": "Jeff Wilson Jr.",
+    "POS": "RB81"
 }, {
     "RK": "280",
-    "PLAYER NAME": "Kylen Granson",
-    "POS": "TE37",
-    "ADP Delta": "-"
+    "Player": "Kylen Granson",
+    "POS": "TE37"
 }, {
     "RK": "281",
-    "PLAYER NAME": "Luke Musgrave",
-    "POS": "TE38",
-    "ADP Delta": "-104"
+    "Player": "Luke Musgrave",
+    "POS": "TE38"
 }, {
     "RK": "282",
-    "PLAYER NAME": "Jake Bates",
-    "POS": "K17",
-    "ADP Delta": "-34"
+    "Player": "Jake Bates",
+    "POS": "K17"
 }, {
     "RK": "283",
-    "PLAYER NAME": "Jason Sanders",
-    "POS": "K18",
-    "ADP Delta": "-119"
+    "Player": "Jason Sanders",
+    "POS": "K18"
 }, {
     "RK": "284",
-    "PLAYER NAME": "Foster Moreau",
-    "POS": "TE39",
-    "ADP Delta": "-"
+    "Player": "Foster Moreau",
+    "POS": "TE39"
 }, {
     "RK": "285",
-    "PLAYER NAME": "Matt Gay",
-    "POS": "K19",
-    "ADP Delta": "-59"
+    "Player": "Matt Gay",
+    "POS": "K19"
 }, {
     "RK": "286",
-    "PLAYER NAME": "Johnny Wilson",
-    "POS": "WR95",
-    "ADP Delta": "-"
+    "Player": "Johnny Wilson",
+    "POS": "WR95"
 }, {
     "RK": "287",
-    "PLAYER NAME": "Tampa Bay Buccaneers",
-    "POS": "DST20",
-    "ADP Delta": "-80"
+    "Player": "Tampa Bay Buccaneers",
+    "POS": "DST20"
 }, {
     "RK": "288",
-    "PLAYER NAME": "Daniel Carlson",
-    "POS": "K20",
-    "ADP Delta": "-87"
+    "Player": "Daniel Carlson",
+    "POS": "K20"
 }, {
     "RK": "289",
-    "PLAYER NAME": "Kendre Miller",
-    "POS": "RB82",
-    "ADP Delta": "-52"
+    "Player": "Kendre Miller",
+    "POS": "RB82"
 }, {
     "RK": "290",
-    "PLAYER NAME": "Dyami Brown",
-    "POS": "WR96",
-    "ADP Delta": "-27"
+    "Player": "Dyami Brown",
+    "POS": "WR96"
 }, {
     "RK": "291",
-    "PLAYER NAME": "Las Vegas Raiders",
-    "POS": "DST21",
-    "ADP Delta": "-85"
+    "Player": "Las Vegas Raiders",
+    "POS": "DST21"
 }, {
     "RK": "292",
-    "PLAYER NAME": "Jacksonville Jaguars",
-    "POS": "DST22",
-    "ADP Delta": "-16"
+    "Player": "Jacksonville Jaguars",
+    "POS": "DST22"
 }, {
     "RK": "293",
-    "PLAYER NAME": "Dawson Knox",
-    "POS": "TE40",
-    "ADP Delta": "-84"
+    "Player": "Dawson Knox",
+    "POS": "TE40"
 }, {
     "RK": "294",
-    "PLAYER NAME": "Denver Broncos",
-    "POS": "DST23",
-    "ADP Delta": "-34"
+    "Player": "Denver Broncos",
+    "POS": "DST23"
 }, {
     "RK": "295",
-    "PLAYER NAME": "Tre Tucker",
-    "POS": "WR97",
-    "ADP Delta": "8"
+    "Player": "Tre Tucker",
+    "POS": "WR97"
 }, {
     "RK": "296",
-    "PLAYER NAME": "New England Patriots",
-    "POS": "DST24",
-    "ADP Delta": "-77"
+    "Player": "New England Patriots",
+    "POS": "DST24"
 }, {
     "RK": "297",
-    "PLAYER NAME": "Pierre Strong Jr.",
-    "POS": "RB83",
-    "ADP Delta": "-"
+    "Player": "Pierre Strong Jr.",
+    "POS": "RB83"
 }, {
     "RK": "298",
-    "PLAYER NAME": "Nelson Agholor",
-    "POS": "WR98",
-    "ADP Delta": "-"
+    "Player": "Nelson Agholor",
+    "POS": "WR98"
 }, {
     "RK": "299",
-    "PLAYER NAME": "Marvin Mims Jr.",
-    "POS": "WR99",
-    "ADP Delta": "-65"
+    "Player": "Marvin Mims Jr.",
+    "POS": "WR99"
 }, {
     "RK": "300",
-    "PLAYER NAME": "Tua Tagovailoa",
-    "POS": "QB34",
-    "ADP Delta": "-199"
+    "Player": "Tua Tagovailoa",
+    "POS": "QB34"
 }, {
     "RK": "301",
-    "PLAYER NAME": "Britain Covey",
-    "POS": "WR100",
-    "ADP Delta": "-"
+    "Player": "Britain Covey",
+    "POS": "WR100"
 }, {
     "RK": "302",
-    "PLAYER NAME": "Jameis Winston",
-    "POS": "QB35",
-    "ADP Delta": "-"
+    "Player": "Jameis Winston",
+    "POS": "QB35"
 }, {
     "RK": "303",
-    "PLAYER NAME": "Jalin Hyatt",
-    "POS": "WR101",
-    "ADP Delta": "-12"
+    "Player": "Jalin Hyatt",
+    "POS": "WR101"
 }, {
     "RK": "304",
-    "PLAYER NAME": "Brayden Narveson",
-    "POS": "K21",
-    "ADP Delta": "-"
+    "Player": "Brayden Narveson",
+    "POS": "K21"
 }, {
     "RK": "305",
-    "PLAYER NAME": "Tyler Goodson",
-    "POS": "RB84",
-    "ADP Delta": "-"
+    "Player": "Tyler Goodson",
+    "POS": "RB84"
 }, {
     "RK": "306",
-    "PLAYER NAME": "Ben Sinnott",
-    "POS": "TE41",
-    "ADP Delta": "-111"
+    "Player": "Ben Sinnott",
+    "POS": "TE41"
 }, {
     "RK": "307",
-    "PLAYER NAME": "Atlanta Falcons",
-    "POS": "DST25",
-    "ADP Delta": "-72"
+    "Player": "Atlanta Falcons",
+    "POS": "DST25"
 }, {
     "RK": "308",
-    "PLAYER NAME": "Dustin Hopkins",
-    "POS": "K22",
-    "ADP Delta": "-52"
+    "Player": "Dustin Hopkins",
+    "POS": "K22"
 }, {
     "RK": "309",
-    "PLAYER NAME": "Chase McLaughlin",
-    "POS": "K23",
-    "ADP Delta": "-"
+    "Player": "Chase McLaughlin",
+    "POS": "K23"
 }, {
     "RK": "310",
-    "PLAYER NAME": "Roman Wilson",
-    "POS": "WR102",
-    "ADP Delta": "-57"
+    "Player": "Roman Wilson",
+    "POS": "WR102"
 }, {
     "RK": "311",
-    "PLAYER NAME": "Michael Penix Jr.",
-    "POS": "QB36",
-    "ADP Delta": "-18"
+    "Player": "Michael Penix Jr.",
+    "POS": "QB36"
 }, {
     "RK": "312",
-    "PLAYER NAME": "Miami Dolphins",
-    "POS": "DST26",
-    "ADP Delta": "-126"
+    "Player": "Miami Dolphins",
+    "POS": "DST26"
 }, {
     "RK": "313",
-    "PLAYER NAME": "Emari Demercado",
-    "POS": "RB85",
-    "ADP Delta": "-"
+    "Player": "Emari Demercado",
+    "POS": "RB85"
 }, {
     "RK": "314",
-    "PLAYER NAME": "Tyler Badie",
-    "POS": "RB86",
-    "ADP Delta": "-"
+    "Player": "Tyler Badie",
+    "POS": "RB86"
 }, {
     "RK": "315",
-    "PLAYER NAME": "Will Reichard",
-    "POS": "K24",
-    "ADP Delta": "-84"
+    "Player": "Will Reichard",
+    "POS": "K24"
 }, {
     "RK": "316",
-    "PLAYER NAME": "Aidan O'Connell",
-    "POS": "QB37",
-    "ADP Delta": "-41"
+    "Player": "Aidan O'Connell",
+    "POS": "QB37"
 }, {
     "RK": "317",
-    "PLAYER NAME": "Malik Willis",
-    "POS": "QB38",
-    "ADP Delta": "-"
+    "Player": "Malik Willis",
+    "POS": "QB38"
 }, {
     "RK": "318",
-    "PLAYER NAME": "DJ Chark Jr.",
-    "POS": "WR103",
-    "ADP Delta": "-34"
+    "Player": "DJ Chark Jr.",
+    "POS": "WR103"
 }, {
     "RK": "319",
-    "PLAYER NAME": "Johnny Mundt",
-    "POS": "TE42",
-    "ADP Delta": "-"
+    "Player": "Johnny Mundt",
+    "POS": "TE42"
 }, {
     "RK": "320",
-    "PLAYER NAME": "Cedric Tillman",
-    "POS": "WR104",
-    "ADP Delta": "-"
+    "Player": "Cedric Tillman",
+    "POS": "WR104"
 }, {
     "RK": "321",
-    "PLAYER NAME": "Will Shipley",
-    "POS": "RB87",
-    "ADP Delta": "-78"
+    "Player": "Will Shipley",
+    "POS": "RB87"
 }, {
     "RK": "322",
-    "PLAYER NAME": "Arizona Cardinals",
-    "POS": "DST27",
-    "ADP Delta": "-"
+    "Player": "Arizona Cardinals",
+    "POS": "DST27"
 }, {
     "RK": "323",
-    "PLAYER NAME": "Calvin Austin III",
-    "POS": "WR105",
-    "ADP Delta": "-6"
+    "Player": "Calvin Austin III",
+    "POS": "WR105"
 }, {
     "RK": "324",
-    "PLAYER NAME": "Eric Gray",
-    "POS": "RB88",
-    "ADP Delta": "-30"
+    "Player": "Eric Gray",
+    "POS": "RB88"
 }, {
     "RK": "325",
-    "PLAYER NAME": "Joshua Karty",
-    "POS": "K25",
-    "ADP Delta": "-29"
+    "Player": "Joshua Karty",
+    "POS": "K25"
 }, {
     "RK": "326",
-    "PLAYER NAME": "Nick Folk",
-    "POS": "K26",
-    "ADP Delta": "-"
+    "Player": "Nick Folk",
+    "POS": "K26"
 }, {
     "RK": "327",
-    "PLAYER NAME": "Kalif Raymond",
-    "POS": "WR106",
-    "ADP Delta": "-"
+    "Player": "Kalif Raymond",
+    "POS": "WR106"
 }, {
     "RK": "328",
-    "PLAYER NAME": "Tommy Tremble",
-    "POS": "TE43",
-    "ADP Delta": "-"
+    "Player": "Tommy Tremble",
+    "POS": "TE43"
 }, {
     "RK": "329",
-    "PLAYER NAME": "Troy Franklin",
-    "POS": "WR107",
-    "ADP Delta": "-108"
+    "Player": "Troy Franklin",
+    "POS": "WR107"
 }, {
     "RK": "330",
-    "PLAYER NAME": "Wil Lutz",
-    "POS": "K27",
-    "ADP Delta": "-"
+    "Player": "Wil Lutz",
+    "POS": "K27"
 }, {
     "RK": "331",
-    "PLAYER NAME": "Bryce Young",
-    "POS": "QB39",
-    "ADP Delta": "-118"
+    "Player": "Bryce Young",
+    "POS": "QB39"
 }, {
     "RK": "332",
-    "PLAYER NAME": "Tyler Huntley",
-    "POS": "QB40",
-    "ADP Delta": "-"
+    "Player": "Tyler Huntley",
+    "POS": "QB40"
 }, {
     "RK": "333",
-    "PLAYER NAME": "New York Giants",
-    "POS": "DST28",
-    "ADP Delta": "-115"
+    "Player": "New York Giants",
+    "POS": "DST28"
 }, {
     "RK": "334",
-    "PLAYER NAME": "Cam Little",
-    "POS": "K28",
-    "ADP Delta": "-37"
+    "Player": "Cam Little",
+    "POS": "K28"
 }, {
     "RK": "335",
-    "PLAYER NAME": "D'Ernest Johnson",
-    "POS": "RB89",
-    "ADP Delta": "-"
+    "Player": "D'Ernest Johnson",
+    "POS": "RB89"
 }, {
     "RK": "336",
-    "PLAYER NAME": "Joe Flacco",
-    "POS": "QB41",
-    "ADP Delta": "-46"
+    "Player": "Joe Flacco",
+    "POS": "QB41"
 }, {
     "RK": "337",
-    "PLAYER NAME": "Tyquan Thornton",
-    "POS": "WR108",
-    "ADP Delta": "-"
+    "Player": "Tyquan Thornton",
+    "POS": "WR108"
 }, {
     "RK": "338",
-    "PLAYER NAME": "Michael Mayer",
-    "POS": "TE44",
-    "ADP Delta": "-43"
+    "Player": "Michael Mayer",
+    "POS": "TE44"
 }, {
     "RK": "339",
-    "PLAYER NAME": "Van Jefferson",
-    "POS": "WR109",
-    "ADP Delta": "-17"
+    "Player": "Van Jefferson",
+    "POS": "WR109"
 }, {
     "RK": "340",
-    "PLAYER NAME": "Tennessee Titans",
-    "POS": "DST29",
-    "ADP Delta": "-48"
+    "Player": "Tennessee Titans",
+    "POS": "DST29"
 }, {
     "RK": "341",
-    "PLAYER NAME": "Drew Lock",
-    "POS": "QB42",
-    "ADP Delta": "-"
+    "Player": "Drew Lock",
+    "POS": "QB42"
 }, {
     "RK": "342",
-    "PLAYER NAME": "Skylar Thompson",
-    "POS": "QB43",
-    "ADP Delta": "-"
+    "Player": "Skylar Thompson",
+    "POS": "QB43"
 }, {
     "RK": "343",
-    "PLAYER NAME": "Dylan Laube",
-    "POS": "RB90",
-    "ADP Delta": "-64"
+    "Player": "Dylan Laube",
+    "POS": "RB90"
 }, {
     "RK": "344",
-    "PLAYER NAME": "Mason Rudolph",
-    "POS": "QB44",
-    "ADP Delta": "-"
+    "Player": "Mason Rudolph",
+    "POS": "QB44"
 }, {
     "RK": "345",
-    "PLAYER NAME": "Tim Boyle",
-    "POS": "QB45",
-    "ADP Delta": "-"
+    "Player": "Tim Boyle",
+    "POS": "QB45"
 }, {
     "RK": "346",
-    "PLAYER NAME": "Noah Gray",
-    "POS": "TE45",
-    "ADP Delta": "-"
+    "Player": "Noah Gray",
+    "POS": "TE45"
 }, {
     "RK": "347",
-    "PLAYER NAME": "Nick Mullens",
-    "POS": "QB46",
-    "ADP Delta": "-"
+    "Player": "Nick Mullens",
+    "POS": "QB46"
 }, {
     "RK": "348",
-    "PLAYER NAME": "Austin Seibert",
-    "POS": "K29",
-    "ADP Delta": "-"
+    "Player": "Austin Seibert",
+    "POS": "K29"
 }, {
     "RK": "349",
-    "PLAYER NAME": "Will Dissly",
-    "POS": "TE46",
-    "ADP Delta": "-"
+    "Player": "Will Dissly",
+    "POS": "TE46"
 }, {
     "RK": "350",
-    "PLAYER NAME": "Eddy Pineiro",
-    "POS": "K30",
-    "ADP Delta": "-"
+    "Player": "Eddy Pineiro",
+    "POS": "K30"
 }, {
     "RK": "351",
-    "PLAYER NAME": "Jake Browning",
-    "POS": "QB47",
-    "ADP Delta": "-"
+    "Player": "Jake Browning",
+    "POS": "QB47"
 }, {
     "RK": "352",
-    "PLAYER NAME": "Tyrod Taylor",
-    "POS": "QB48",
-    "ADP Delta": "-"
+    "Player": "Tyrod Taylor",
+    "POS": "QB48"
 }, {
     "RK": "353",
-    "PLAYER NAME": "Dalvin Cook",
-    "POS": "RB91",
-    "ADP Delta": "-87"
+    "Player": "Dalvin Cook",
+    "POS": "RB91"
 }, {
     "RK": "354",
-    "PLAYER NAME": "Marcus Mariota",
-    "POS": "QB49",
-    "ADP Delta": "-"
+    "Player": "Marcus Mariota",
+    "POS": "QB49"
 }, {
     "RK": "355",
-    "PLAYER NAME": "A.T. Perry",
-    "POS": "WR110",
-    "ADP Delta": "-14"
+    "Player": "A.T. Perry",
+    "POS": "WR110"
 }, {
     "RK": "356",
-    "PLAYER NAME": "Los Angeles Rams",
-    "POS": "DST30",
-    "ADP Delta": "-17"
+    "Player": "Los Angeles Rams",
+    "POS": "DST30"
 }, {
     "RK": "357",
-    "PLAYER NAME": "Malik Washington",
-    "POS": "WR111",
-    "ADP Delta": "-57"
+    "Player": "Malik Washington",
+    "POS": "WR111"
 }, {
     "RK": "358",
-    "PLAYER NAME": "Kendrick Bourne",
-    "POS": "WR112",
-    "ADP Delta": "-53"
+    "Player": "Kendrick Bourne",
+    "POS": "WR112"
 }, {
     "RK": "359",
-    "PLAYER NAME": "Blake Watson",
-    "POS": "RB92",
-    "ADP Delta": "-"
+    "Player": "Blake Watson",
+    "POS": "RB92"
 }, {
     "RK": "360",
-    "PLAYER NAME": "Devaughn Vele",
-    "POS": "WR113",
-    "ADP Delta": "-"
+    "Player": "Devaughn Vele",
+    "POS": "WR113"
 }, {
     "RK": "361",
-    "PLAYER NAME": "Mack Hollins",
-    "POS": "WR114",
-    "ADP Delta": "-"
+    "Player": "Mack Hollins",
+    "POS": "WR114"
 }, {
     "RK": "362",
-    "PLAYER NAME": "Cody Schrader",
-    "POS": "RB93",
-    "ADP Delta": "-"
+    "Player": "Cody Schrader",
+    "POS": "RB93"
 }, {
     "RK": "363",
-    "PLAYER NAME": "Carolina Panthers",
-    "POS": "DST31",
-    "ADP Delta": "-"
+    "Player": "Carolina Panthers",
+    "POS": "DST31"
 }, {
     "RK": "364",
-    "PLAYER NAME": "JuJu Smith-Schuster",
-    "POS": "WR115",
-    "ADP Delta": "-"
+    "Player": "JuJu Smith-Schuster",
+    "POS": "WR115"
 }, {
     "RK": "365",
-    "PLAYER NAME": "Sione Vaki",
-    "POS": "RB94",
-    "ADP Delta": "-"
+    "Player": "Sione Vaki",
+    "POS": "RB94"
 }, {
     "RK": "366",
-    "PLAYER NAME": "Jimmy Garoppolo",
-    "POS": "QB50",
-    "ADP Delta": "-"
+    "Player": "Jimmy Garoppolo",
+    "POS": "QB50"
 }, {
     "RK": "367",
-    "PLAYER NAME": "Jacob Cowing",
-    "POS": "WR116",
-    "ADP Delta": "-"
+    "Player": "Jacob Cowing",
+    "POS": "WR116"
 }, {
     "RK": "368",
-    "PLAYER NAME": "Darnell Washington",
-    "POS": "TE47",
-    "ADP Delta": "-"
+    "Player": "Darnell Washington",
+    "POS": "TE47"
 }, {
     "RK": "369",
-    "PLAYER NAME": "DeeJay Dallas",
-    "POS": "RB95",
-    "ADP Delta": "-"
+    "Player": "DeeJay Dallas",
+    "POS": "RB95"
 }, {
     "RK": "370",
-    "PLAYER NAME": "Odell Beckham Jr.",
-    "POS": "WR117",
-    "ADP Delta": "-83"
+    "Player": "Odell Beckham Jr.",
+    "POS": "WR117"
 }, {
     "RK": "371",
-    "PLAYER NAME": "Treylon Burks",
-    "POS": "WR118",
-    "ADP Delta": "-65"
+    "Player": "Treylon Burks",
+    "POS": "WR118"
 }, {
     "RK": "372",
-    "PLAYER NAME": "Tyler Higbee",
-    "POS": "TE48",
-    "ADP Delta": "-"
+    "Player": "Tyler Higbee",
+    "POS": "TE48"
 }, {
     "RK": "373",
-    "PLAYER NAME": "Washington Commanders",
-    "POS": "DST32",
-    "ADP Delta": "-101"
+    "Player": "Washington Commanders",
+    "POS": "DST32"
 }, {
     "RK": "374",
-    "PLAYER NAME": "Jonathan Mingo",
-    "POS": "WR119",
-    "ADP Delta": "-59"
+    "Player": "Jonathan Mingo",
+    "POS": "WR119"
 }, {
     "RK": "375",
-    "PLAYER NAME": "Brock Wright",
-    "POS": "TE49",
-    "ADP Delta": "-"
+    "Player": "Brock Wright",
+    "POS": "TE49"
 }, {
     "RK": "376",
-    "PLAYER NAME": "Javon Baker",
-    "POS": "WR120",
-    "ADP Delta": "-91"
+    "Player": "Javon Baker",
+    "POS": "WR120"
 }, {
     "RK": "377",
-    "PLAYER NAME": "Josh Oliver",
-    "POS": "TE50",
-    "ADP Delta": "-"
+    "Player": "Josh Oliver",
+    "POS": "TE50"
 }, {
     "RK": "378",
-    "PLAYER NAME": "Bo Melton",
-    "POS": "WR121",
-    "ADP Delta": "-"
+    "Player": "Bo Melton",
+    "POS": "WR121"
 }, {
     "RK": "379",
-    "PLAYER NAME": "Joey Slye",
-    "POS": "K31",
-    "ADP Delta": "-"
+    "Player": "Joey Slye",
+    "POS": "K31"
 }, {
     "RK": "380",
-    "PLAYER NAME": "Josh Whyle",
-    "POS": "TE51",
-    "ADP Delta": "-"
+    "Player": "Josh Whyle",
+    "POS": "TE51"
 }, {
     "RK": "381",
-    "PLAYER NAME": "Kendall Milton",
-    "POS": "RB96",
-    "ADP Delta": "-"
+    "Player": "Kendall Milton",
+    "POS": "RB96"
 }, {
     "RK": "382",
-    "PLAYER NAME": "Isaiah Davis",
-    "POS": "RB97",
-    "ADP Delta": "-"
+    "Player": "Isaiah Davis",
+    "POS": "RB97"
 }, {
     "RK": "383",
-    "PLAYER NAME": "Tim Patrick",
-    "POS": "WR122",
-    "ADP Delta": "-"
+    "Player": "Tim Patrick",
+    "POS": "WR122"
 }, {
     "RK": "384",
-    "PLAYER NAME": "Craig Reynolds",
-    "POS": "RB98",
-    "ADP Delta": "-"
+    "Player": "Craig Reynolds",
+    "POS": "RB98"
 }, {
     "RK": "385",
-    "PLAYER NAME": "Sam Howell",
-    "POS": "QB51",
-    "ADP Delta": "-"
+    "Player": "Sam Howell",
+    "POS": "QB51"
 }, {
     "RK": "386",
-    "PLAYER NAME": "Davis Allen",
-    "POS": "TE52",
-    "ADP Delta": "-"
+    "Player": "Davis Allen",
+    "POS": "TE52"
 }, {
     "RK": "387",
-    "PLAYER NAME": "Deuce Vaughn",
-    "POS": "RB99",
-    "ADP Delta": "-75"
+    "Player": "Deuce Vaughn",
+    "POS": "RB99"
 }, {
     "RK": "388",
-    "PLAYER NAME": "Marquise Brown",
-    "POS": "WR123",
-    "ADP Delta": "-286"
+    "Player": "Marquise Brown",
+    "POS": "WR123"
 }, {
     "RK": "389",
-    "PLAYER NAME": "Xavier Gipson",
-    "POS": "WR124",
-    "ADP Delta": "-"
+    "Player": "Xavier Gipson",
+    "POS": "WR124"
 }, {
     "RK": "390",
-    "PLAYER NAME": "Jeremy McNichols",
-    "POS": "RB100",
-    "ADP Delta": "-"
+    "Player": "Jeremy McNichols",
+    "POS": "RB100"
 }, {
     "RK": "391",
-    "PLAYER NAME": "Graham Gano",
-    "POS": "K32",
-    "ADP Delta": "-"
+    "Player": "Graham Gano",
+    "POS": "K32"
 }, {
     "RK": "392",
-    "PLAYER NAME": "Jared Wiley",
-    "POS": "TE53",
-    "ADP Delta": "-"
+    "Player": "Jared Wiley",
+    "POS": "TE53"
 }, {
     "RK": "393",
-    "PLAYER NAME": "Luke Schoonmaker",
-    "POS": "TE54",
-    "ADP Delta": "-"
+    "Player": "Luke Schoonmaker",
+    "POS": "TE54"
 }, {
     "RK": "394",
-    "PLAYER NAME": "KaVontae Turpin",
-    "POS": "WR125",
-    "ADP Delta": "-"
+    "Player": "KaVontae Turpin",
+    "POS": "WR125"
 }, {
     "RK": "395",
-    "PLAYER NAME": "Chris Rodriguez Jr.",
-    "POS": "RB101",
-    "ADP Delta": "-"
+    "Player": "Chris Rodriguez Jr.",
+    "POS": "RB101"
 }, {
     "RK": "396",
-    "PLAYER NAME": "Lil'Jordan Humphrey",
-    "POS": "WR126",
-    "ADP Delta": "-"
+    "Player": "Lil'Jordan Humphrey",
+    "POS": "WR126"
 }, {
     "RK": "397",
-    "PLAYER NAME": "Tyler Scott",
-    "POS": "WR127",
-    "ADP Delta": "-"
+    "Player": "Tyler Scott",
+    "POS": "WR127"
 }, {
     "RK": "398",
-    "PLAYER NAME": "Cade York",
-    "POS": "K33",
-    "ADP Delta": "-"
+    "Player": "Cade York",
+    "POS": "K33"
 }, {
     "RK": "399",
-    "PLAYER NAME": "Daniel Bellinger",
-    "POS": "TE55",
-    "ADP Delta": "-95"
+    "Player": "Daniel Bellinger",
+    "POS": "TE55"
 }, {
     "RK": "400",
-    "PLAYER NAME": "Lucas Krull",
-    "POS": "TE56",
-    "ADP Delta": "-"
+    "Player": "Lucas Krull",
+    "POS": "TE56"
 }, {
     "RK": "401",
-    "PLAYER NAME": "Cade Stover",
-    "POS": "TE57",
-    "ADP Delta": "-"
+    "Player": "Cade Stover",
+    "POS": "TE57"
 }, {
     "RK": "402",
-    "PLAYER NAME": "John Metchie III",
-    "POS": "WR128",
-    "ADP Delta": "-"
+    "Player": "John Metchie III",
+    "POS": "WR128"
 }, {
     "RK": "403",
-    "PLAYER NAME": "Malachi Corley",
-    "POS": "WR129",
-    "ADP Delta": "-135"
+    "Player": "Malachi Corley",
+    "POS": "WR129"
 }, {
     "RK": "404",
-    "PLAYER NAME": "Evan Hull",
-    "POS": "RB102",
-    "ADP Delta": "-71"
+    "Player": "Evan Hull",
+    "POS": "RB102"
 }, {
     "RK": "405",
-    "PLAYER NAME": "Parker Washington",
-    "POS": "WR130",
-    "ADP Delta": "-"
+    "Player": "Parker Washington",
+    "POS": "WR130"
 }, {
     "RK": "406",
-    "PLAYER NAME": "Zay Jones",
-    "POS": "WR131",
-    "ADP Delta": "-104"
+    "Player": "Zay Jones",
+    "POS": "WR131"
 }, {
     "RK": "407",
-    "PLAYER NAME": "Emani Bailey",
-    "POS": "RB103",
-    "ADP Delta": "-"
+    "Player": "Emani Bailey",
+    "POS": "RB103"
 }, {
     "RK": "408",
-    "PLAYER NAME": "Tanner Hudson",
-    "POS": "TE58",
-    "ADP Delta": "-"
+    "Player": "Tanner Hudson",
+    "POS": "TE58"
 }, {
     "RK": "409",
-    "PLAYER NAME": "Devontez Walker",
-    "POS": "WR132",
-    "ADP Delta": "-108"
+    "Player": "Devontez Walker",
+    "POS": "WR132"
 }, {
     "RK": "410",
-    "PLAYER NAME": "Jeremy Ruckert",
-    "POS": "TE59",
-    "ADP Delta": "-"
+    "Player": "Jeremy Ruckert",
+    "POS": "TE59"
 }, {
     "RK": "411",
-    "PLAYER NAME": "Hassan Haskins",
-    "POS": "RB104",
-    "ADP Delta": "-"
+    "Player": "Hassan Haskins",
+    "POS": "RB104"
 }, {
     "RK": "412",
-    "PLAYER NAME": "Brenden Rice",
-    "POS": "WR133",
-    "ADP Delta": "-114"
+    "Player": "Brenden Rice",
+    "POS": "WR133"
 }, {
     "RK": "413",
-    "PLAYER NAME": "Rasheen Ali",
-    "POS": "RB105",
-    "ADP Delta": "-92"
+    "Player": "Rasheen Ali",
+    "POS": "RB105"
 }, {
     "RK": "414",
-    "PLAYER NAME": "Jaret Patterson",
-    "POS": "RB106",
-    "ADP Delta": "-"
+    "Player": "Jaret Patterson",
+    "POS": "RB106"
 }, {
     "RK": "415",
-    "PLAYER NAME": "Mo Alie-Cox",
-    "POS": "TE60",
-    "ADP Delta": "-78"
+    "Player": "Mo Alie-Cox",
+    "POS": "TE60"
 }, {
     "RK": "416",
-    "PLAYER NAME": "Olamide Zaccheaus",
-    "POS": "WR134",
-    "ADP Delta": "-"
+    "Player": "Olamide Zaccheaus",
+    "POS": "WR134"
 }, {
     "RK": "417",
-    "PLAYER NAME": "Austin Hooper",
-    "POS": "TE61",
-    "ADP Delta": "-"
+    "Player": "Austin Hooper",
+    "POS": "TE61"
 }, {
     "RK": "418",
-    "PLAYER NAME": "Anthony Gould",
-    "POS": "WR135",
-    "ADP Delta": "-"
+    "Player": "Anthony Gould",
+    "POS": "WR135"
 }, {
     "RK": "419",
-    "PLAYER NAME": "Patrick Taylor Jr.",
-    "POS": "RB107",
-    "ADP Delta": "-"
+    "Player": "Patrick Taylor Jr.",
+    "POS": "RB107"
 }, {
     "RK": "420",
-    "PLAYER NAME": "Jaheim Bell",
-    "POS": "TE62",
-    "ADP Delta": "-"
+    "Player": "Jaheim Bell",
+    "POS": "TE62"
 }, {
     "RK": "421",
-    "PLAYER NAME": "Jamari Thrash",
-    "POS": "WR136",
-    "ADP Delta": "-"
+    "Player": "Jamari Thrash",
+    "POS": "WR136"
 }, {
     "RK": "422",
-    "PLAYER NAME": "Cedrick Wilson Jr.",
-    "POS": "WR137",
-    "ADP Delta": "-"
+    "Player": "Cedrick Wilson Jr.",
+    "POS": "WR137"
 }]

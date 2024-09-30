@@ -40,3 +40,8 @@ body {
 .error {
     display: none;
 }
+.keeper {
+    position: absolute;
+    right: 8px;
+    bottom: 4px;
+}

@@ -71,13 +71,18 @@
             var pickJson = roundJson[i];
             // Look up entry in rosJson
             var rosJsonEntry = rosJson.filter(function(entry) {
-                return entry["PLAYER NAME"].includes(pickJson.metadata.first_name) && entry["PLAYER NAME"].includes(pickJson.metadata.last_name);
+                return entry["Player"].includes(pickJson.metadata.first_name) && entry["Player"].includes(pickJson.metadata.last_name);
             });
             // Construct pick html
             var pickHtml;
             var delta = -50;
             var color;
-            if (rosJsonEntry.length > 0) {
+            // Exclude Kickers and Defense
+            if (pickJson.metadata.position == "K" || pickJson.metadata.position == "DEF") {
+                delta = 0;
+                pickHtml = pickJson.round + "-" + pickJson.pick_no + "<br><b>" + pickJson.metadata.first_name[0] + ". " + pickJson.metadata.last_name + "<br>ROS: N/A<br><br>" + delta;
+                color = "lightslategray";
+            } else if (rosJsonEntry.length > 0) {
                 // Calculate delta
                 delta = parseInt(pickJson.pick_no) - parseInt(rosJsonEntry[0]["RK"]);
                 pickHtml = pickJson.round + "-" + pickJson.pick_no + "<br><b>" + pickJson.metadata.first_name[0] + ". " + pickJson.metadata.last_name + "<br>ROS:" + rosJsonEntry[0]["RK"] + "<br>" + rosJsonEntry[0]["POS"] + "<br>" + delta;
@@ -92,6 +97,11 @@
             }).css({
                 'background-color': color
             }).html(pickHtml);
+            if (pickJson.is_keeper) {
+                pick.append($('<div>', {
+                    'class': 'keeper'
+                }).text("K"));
+            }
             if (round % 2 == 0) {
                 row.prepend(pick);
             } else {
