@@ -1,2061 +1,2061 @@
 [{
     "RK": "1",
-    "PLAYER NAME": "Saquon Barkley",
+    "Player": "Saquon Barkley",
     "POS": "RB1",
     "RK COPY": "1"
 }, {
     "RK": "2",
-    "PLAYER NAME": "Breece Hall",
+    "Player": "Breece Hall",
     "POS": "RB2",
     "RK COPY": "2"
 }, {
     "RK": "3",
-    "PLAYER NAME": "Bijan Robinson",
+    "Player": "Bijan Robinson",
     "POS": "RB3",
     "RK COPY": "3"
 }, {
     "RK": "4",
-    "PLAYER NAME": "Justin Jefferson",
+    "Player": "Justin Jefferson",
     "POS": "WR1",
     "RK COPY": "4"
 }, {
     "RK": "5",
-    "PLAYER NAME": "Derrick Henry",
+    "Player": "Derrick Henry",
     "POS": "RB4",
     "RK COPY": "5"
 }, {
     "RK": "6",
-    "PLAYER NAME": "CeeDee Lamb",
+    "Player": "CeeDee Lamb",
     "POS": "WR2",
     "RK COPY": "6"
 }, {
     "RK": "7",
-    "PLAYER NAME": "Jahmyr Gibbs",
+    "Player": "Jahmyr Gibbs",
     "POS": "RB5",
     "RK COPY": "7"
 }, {
     "RK": "8",
-    "PLAYER NAME": "Ja'Marr Chase",
+    "Player": "Ja'Marr Chase",
     "POS": "WR3",
     "RK COPY": "8"
 }, {
     "RK": "9",
-    "PLAYER NAME": "Jonathan Taylor",
+    "Player": "Jonathan Taylor",
     "POS": "RB6",
     "RK COPY": "9"
 }, {
     "RK": "10",
-    "PLAYER NAME": "Malik Nabers",
+    "Player": "Malik Nabers",
     "POS": "WR4",
     "RK COPY": "10"
 }, {
     "RK": "11",
-    "PLAYER NAME": "Alvin Kamara",
+    "Player": "Alvin Kamara",
     "POS": "RB7",
     "RK COPY": "11"
 }, {
     "RK": "12",
-    "PLAYER NAME": "Kyren Williams",
+    "Player": "Kyren Williams",
     "POS": "RB8",
     "RK COPY": "12"
 }, {
     "RK": "13",
-    "PLAYER NAME": "A.J. Brown",
+    "Player": "A.J. Brown",
     "POS": "WR5",
     "RK COPY": "13"
 }, {
     "RK": "14",
-    "PLAYER NAME": "Nico Collins",
+    "Player": "Nico Collins",
     "POS": "WR6",
     "RK COPY": "14"
 }, {
     "RK": "15",
-    "PLAYER NAME": "Amon-Ra St. Brown",
+    "Player": "Amon-Ra St. Brown",
     "POS": "WR7",
     "RK COPY": "15"
 }, {
     "RK": "16",
-    "PLAYER NAME": "James Cook",
+    "Player": "James Cook",
     "POS": "RB9",
     "RK COPY": "16"
 }, {
     "RK": "17",
-    "PLAYER NAME": "Jordan Mason",
+    "Player": "Jordan Mason",
     "POS": "RB10",
     "RK COPY": "17"
 }, {
     "RK": "18",
-    "PLAYER NAME": "Kenneth Walker III",
+    "Player": "Kenneth Walker III",
     "POS": "RB11",
     "RK COPY": "18"
 }, {
     "RK": "19",
-    "PLAYER NAME": "Marvin Harrison Jr.",
+    "Player": "Marvin Harrison Jr.",
     "POS": "WR8",
     "RK COPY": "19"
 }, {
     "RK": "20",
-    "PLAYER NAME": "Trey McBride",
+    "Player": "Trey McBride",
     "POS": "TE1",
     "RK COPY": "20"
 }, {
     "RK": "21",
-    "PLAYER NAME": "Garrett Wilson",
+    "Player": "Garrett Wilson",
     "POS": "WR9",
     "RK COPY": "21"
 }, {
     "RK": "22",
-    "PLAYER NAME": "De'Von Achane",
+    "Player": "De'Von Achane",
     "POS": "RB12",
     "RK COPY": "22"
 }, {
     "RK": "23",
-    "PLAYER NAME": "Chris Olave",
+    "Player": "Chris Olave",
     "POS": "WR10",
     "RK COPY": "23"
 }, {
     "RK": "24",
-    "PLAYER NAME": "Mike Evans",
+    "Player": "Mike Evans",
     "POS": "WR11",
     "RK COPY": "24"
 }, {
     "RK": "25",
-    "PLAYER NAME": "DK Metcalf",
+    "Player": "DK Metcalf",
     "POS": "WR12",
     "RK COPY": "25"
 }, {
     "RK": "26",
-    "PLAYER NAME": "Brock Bowers",
+    "Player": "Brock Bowers",
     "POS": "TE2",
     "RK COPY": "26"
 }, {
     "RK": "27",
-    "PLAYER NAME": "Josh Jacobs",
+    "Player": "Josh Jacobs",
     "POS": "RB13",
     "RK COPY": "27"
 }, {
     "RK": "28",
-    "PLAYER NAME": "Joe Mixon",
+    "Player": "Joe Mixon",
     "POS": "RB14",
     "RK COPY": "28"
 }, {
     "RK": "29",
-    "PLAYER NAME": "Chris Godwin",
+    "Player": "Chris Godwin",
     "POS": "WR13",
     "RK COPY": "29"
 }, {
     "RK": "30",
-    "PLAYER NAME": "Josh Allen",
+    "Player": "Josh Allen",
     "POS": "QB1",
     "RK COPY": "30"
 }, {
     "RK": "31",
-    "PLAYER NAME": "James Conner",
+    "Player": "James Conner",
     "POS": "RB15",
     "RK COPY": "31"
 }, {
     "RK": "32",
-    "PLAYER NAME": "Jayden Reed",
+    "Player": "Jayden Reed",
     "POS": "WR14",
     "RK COPY": "32"
 }, {
     "RK": "33",
-    "PLAYER NAME": "Lamar Jackson",
+    "Player": "Lamar Jackson",
     "POS": "QB2",
     "RK COPY": "33"
 }, {
     "RK": "34",
-    "PLAYER NAME": "Tyreek Hill",
+    "Player": "Tyreek Hill",
     "POS": "WR15",
     "RK COPY": "34"
 }, {
     "RK": "35",
-    "PLAYER NAME": "Diontae Johnson",
+    "Player": "Diontae Johnson",
     "POS": "WR16",
     "RK COPY": "35"
 }, {
     "RK": "36",
-    "PLAYER NAME": "Aaron Jones",
+    "Player": "Aaron Jones",
     "POS": "RB16",
     "RK COPY": "36"
 }, {
     "RK": "37",
-    "PLAYER NAME": "Deebo Samuel Sr.",
+    "Player": "Deebo Samuel Sr.",
     "POS": "WR17",
     "RK COPY": "37"
 }, {
     "RK": "38",
-    "PLAYER NAME": "DeVonta Smith",
+    "Player": "DeVonta Smith",
     "POS": "WR18",
     "RK COPY": "38"
 }, {
     "RK": "39",
-    "PLAYER NAME": "Drake London",
+    "Player": "Drake London",
     "POS": "WR19",
     "RK COPY": "39"
 }, {
     "RK": "40",
-    "PLAYER NAME": "George Pickens",
+    "Player": "George Pickens",
     "POS": "WR20",
     "RK COPY": "40"
 }, {
     "RK": "41",
-    "PLAYER NAME": "Stefon Diggs",
+    "Player": "Stefon Diggs",
     "POS": "WR21",
     "RK COPY": "41"
 }, {
     "RK": "42",
-    "PLAYER NAME": "Brandon Aiyuk",
+    "Player": "Brandon Aiyuk",
     "POS": "WR22",
     "RK COPY": "42"
 }, {
     "RK": "43",
-    "PLAYER NAME": "Brian Robinson Jr.",
+    "Player": "Brian Robinson Jr.",
     "POS": "RB17",
     "RK COPY": "43"
 }, {
     "RK": "44",
-    "PLAYER NAME": "Jayden Daniels",
+    "Player": "Jayden Daniels",
     "POS": "QB3",
     "RK COPY": "44"
 }, {
     "RK": "45",
-    "PLAYER NAME": "Jalen Hurts",
+    "Player": "Jalen Hurts",
     "POS": "QB4",
     "RK COPY": "45"
 }, {
     "RK": "46",
-    "PLAYER NAME": "David Montgomery",
+    "Player": "David Montgomery",
     "POS": "RB18",
     "RK COPY": "46"
 }, {
     "RK": "47",
-    "PLAYER NAME": "DJ Moore",
+    "Player": "DJ Moore",
     "POS": "WR23",
     "RK COPY": "47"
 }, {
     "RK": "48",
-    "PLAYER NAME": "Dalton Kincaid",
+    "Player": "Dalton Kincaid",
     "POS": "TE3",
     "RK COPY": "48"
 }, {
     "RK": "49",
-    "PLAYER NAME": "Travis Kelce",
+    "Player": "Travis Kelce",
     "POS": "TE4",
     "RK COPY": "49"
 }, {
     "RK": "50",
-    "PLAYER NAME": "Tony Pollard",
+    "Player": "Tony Pollard",
     "POS": "RB19",
     "RK COPY": "50"
 }, {
     "RK": "51",
-    "PLAYER NAME": "Travis Etienne Jr.",
+    "Player": "Travis Etienne Jr.",
     "POS": "RB20",
     "RK COPY": "51"
 }, {
     "RK": "52",
-    "PLAYER NAME": "Zay Flowers",
+    "Player": "Zay Flowers",
     "POS": "WR24",
     "RK COPY": "52"
 }, {
     "RK": "53",
-    "PLAYER NAME": "George Kittle",
+    "Player": "George Kittle",
     "POS": "TE5",
     "RK COPY": "53"
 }, {
     "RK": "54",
-    "PLAYER NAME": "J.K. Dobbins",
+    "Player": "J.K. Dobbins",
     "POS": "RB21",
     "RK COPY": "54"
 }, {
     "RK": "55",
-    "PLAYER NAME": "Christian McCaffrey",
+    "Player": "Christian McCaffrey",
     "POS": "RB22",
     "RK COPY": "55"
 }, {
     "RK": "56",
-    "PLAYER NAME": "Jameson Williams",
+    "Player": "Jameson Williams",
     "POS": "WR25",
     "RK COPY": "56"
 }, {
     "RK": "57",
-    "PLAYER NAME": "C.J. Stroud",
+    "Player": "C.J. Stroud",
     "POS": "QB5",
     "RK COPY": "57"
 }, {
     "RK": "58",
-    "PLAYER NAME": "Devin Singletary",
+    "Player": "Devin Singletary",
     "POS": "RB23",
     "RK COPY": "58"
 }, {
     "RK": "59",
-    "PLAYER NAME": "Amari Cooper",
+    "Player": "Amari Cooper",
     "POS": "WR26",
     "RK COPY": "59"
 }, {
     "RK": "60",
-    "PLAYER NAME": "Davante Adams",
+    "Player": "Davante Adams",
     "POS": "WR27",
     "RK COPY": "60"
 }, {
     "RK": "61",
-    "PLAYER NAME": "Terry McLaurin",
+    "Player": "Terry McLaurin",
     "POS": "WR28",
     "RK COPY": "61"
 }, {
     "RK": "62",
-    "PLAYER NAME": "Rhamondre Stevenson",
+    "Player": "Rhamondre Stevenson",
     "POS": "RB24",
     "RK COPY": "62"
 }, {
     "RK": "63",
-    "PLAYER NAME": "Najee Harris",
+    "Player": "Najee Harris",
     "POS": "RB25",
     "RK COPY": "63"
 }, {
     "RK": "64",
-    "PLAYER NAME": "Kyler Murray",
+    "Player": "Kyler Murray",
     "POS": "QB6",
     "RK COPY": "64"
 }, {
     "RK": "65",
-    "PLAYER NAME": "Sam LaPorta",
+    "Player": "Sam LaPorta",
     "POS": "TE6",
     "RK COPY": "65"
 }, {
     "RK": "66",
-    "PLAYER NAME": "Michael Pittman Jr.",
+    "Player": "Michael Pittman Jr.",
     "POS": "WR29",
     "RK COPY": "66"
 }, {
     "RK": "67",
-    "PLAYER NAME": "Jake Ferguson",
+    "Player": "Jake Ferguson",
     "POS": "TE7",
     "RK COPY": "67"
 }, {
     "RK": "68",
-    "PLAYER NAME": "Chuba Hubbard",
+    "Player": "Chuba Hubbard",
     "POS": "RB26",
     "RK COPY": "68"
 }, {
     "RK": "69",
-    "PLAYER NAME": "Dak Prescott",
+    "Player": "Dak Prescott",
     "POS": "QB7",
     "RK COPY": "69"
 }, {
     "RK": "70",
-    "PLAYER NAME": "Tee Higgins",
+    "Player": "Tee Higgins",
     "POS": "WR30",
     "RK COPY": "70"
 }, {
     "RK": "71",
-    "PLAYER NAME": "Rashid Shaheed",
+    "Player": "Rashid Shaheed",
     "POS": "WR31",
     "RK COPY": "71"
 }, {
     "RK": "72",
-    "PLAYER NAME": "Brian Thomas Jr.",
+    "Player": "Brian Thomas Jr.",
     "POS": "WR32",
     "RK COPY": "72"
 }, {
     "RK": "73",
-    "PLAYER NAME": "Cooper Kupp",
+    "Player": "Cooper Kupp",
     "POS": "WR33",
     "RK COPY": "73"
 }, {
     "RK": "74",
-    "PLAYER NAME": "Jaxon Smith-Njigba",
+    "Player": "Jaxon Smith-Njigba",
     "POS": "WR34",
     "RK COPY": "74"
 }, {
     "RK": "75",
-    "PLAYER NAME": "Zack Moss",
+    "Player": "Zack Moss",
     "POS": "RB27",
     "RK COPY": "75"
 }, {
     "RK": "76",
-    "PLAYER NAME": "Dallas Goedert",
+    "Player": "Dallas Goedert",
     "POS": "TE8",
     "RK COPY": "76"
 }, {
     "RK": "77",
-    "PLAYER NAME": "Joe Burrow",
+    "Player": "Joe Burrow",
     "POS": "QB8",
     "RK COPY": "77"
 }, {
     "RK": "78",
-    "PLAYER NAME": "Xavier Worthy",
+    "Player": "Xavier Worthy",
     "POS": "WR35",
     "RK COPY": "78"
 }, {
     "RK": "79",
-    "PLAYER NAME": "Puka Nacua",
+    "Player": "Puka Nacua",
     "POS": "WR36",
     "RK COPY": "79"
 }, {
     "RK": "80",
-    "PLAYER NAME": "Jordan Love",
+    "Player": "Jordan Love",
     "POS": "QB9",
     "RK COPY": "80"
 }, {
     "RK": "81",
-    "PLAYER NAME": "Justin Fields",
+    "Player": "Justin Fields",
     "POS": "QB10",
     "RK COPY": "81"
 }, {
     "RK": "82",
-    "PLAYER NAME": "Khalil Shakir",
+    "Player": "Khalil Shakir",
     "POS": "WR37",
     "RK COPY": "82"
 }, {
     "RK": "83",
-    "PLAYER NAME": "Rachaad White",
+    "Player": "Rachaad White",
     "POS": "RB28",
     "RK COPY": "83"
 }, {
     "RK": "84",
-    "PLAYER NAME": "Patrick Mahomes II",
+    "Player": "Patrick Mahomes II",
     "POS": "QB11",
     "RK COPY": "84"
 }, {
     "RK": "85",
-    "PLAYER NAME": "Jaylen Waddle",
+    "Player": "Jaylen Waddle",
     "POS": "WR38",
     "RK COPY": "85"
 }, {
     "RK": "86",
-    "PLAYER NAME": "Jerome Ford",
+    "Player": "Jerome Ford",
     "POS": "RB29",
     "RK COPY": "86"
 }, {
     "RK": "87",
-    "PLAYER NAME": "Bucky Irving",
+    "Player": "Bucky Irving",
     "POS": "RB30",
     "RK COPY": "87"
 }, {
     "RK": "88",
-    "PLAYER NAME": "Anthony Richardson",
+    "Player": "Anthony Richardson",
     "POS": "QB12",
     "RK COPY": "88"
 }, {
     "RK": "89",
-    "PLAYER NAME": "Jonathon Brooks",
+    "Player": "Jonathon Brooks",
     "POS": "RB31",
     "RK COPY": "89"
 }, {
     "RK": "90",
-    "PLAYER NAME": "Tank Dell",
+    "Player": "Tank Dell",
     "POS": "WR39",
     "RK COPY": "90"
 }, {
     "RK": "91",
-    "PLAYER NAME": "Chase Brown",
+    "Player": "Chase Brown",
     "POS": "RB32",
     "RK COPY": "91"
 }, {
     "RK": "92",
-    "PLAYER NAME": "Christian Kirk",
+    "Player": "Christian Kirk",
     "POS": "WR40",
     "RK COPY": "92"
 }, {
     "RK": "93",
-    "PLAYER NAME": "D'Andre Swift",
+    "Player": "D'Andre Swift",
     "POS": "RB33",
     "RK COPY": "93"
 }, {
     "RK": "94",
-    "PLAYER NAME": "Rico Dowdle",
+    "Player": "Rico Dowdle",
     "POS": "RB34",
     "RK COPY": "94"
 }, {
     "RK": "95",
-    "PLAYER NAME": "Ladd McConkey",
+    "Player": "Ladd McConkey",
     "POS": "WR41",
     "RK COPY": "95"
 }, {
     "RK": "96",
-    "PLAYER NAME": "Zach Charbonnet",
+    "Player": "Zach Charbonnet",
     "POS": "RB35",
     "RK COPY": "96"
 }, {
     "RK": "97",
-    "PLAYER NAME": "Evan Engram",
+    "Player": "Evan Engram",
     "POS": "TE9",
     "RK COPY": "97"
 }, {
     "RK": "98",
-    "PLAYER NAME": "Braelon Allen",
+    "Player": "Braelon Allen",
     "POS": "RB36",
     "RK COPY": "98"
 }, {
     "RK": "99",
-    "PLAYER NAME": "Rome Odunze",
+    "Player": "Rome Odunze",
     "POS": "WR42",
     "RK COPY": "99"
 }, {
     "RK": "100",
-    "PLAYER NAME": "Javonte Williams",
+    "Player": "Javonte Williams",
     "POS": "RB37",
     "RK COPY": "100"
 }, {
     "RK": "101",
-    "PLAYER NAME": "Austin Ekeler",
+    "Player": "Austin Ekeler",
     "POS": "RB38",
     "RK COPY": "101"
 }, {
     "RK": "102",
-    "PLAYER NAME": "Calvin Ridley",
+    "Player": "Calvin Ridley",
     "POS": "WR43",
     "RK COPY": "102"
 }, {
     "RK": "103",
-    "PLAYER NAME": "Brock Purdy",
+    "Player": "Brock Purdy",
     "POS": "QB13",
     "RK COPY": "103"
 }, {
     "RK": "104",
-    "PLAYER NAME": "Jared Goff",
+    "Player": "Jared Goff",
     "POS": "QB14",
     "RK COPY": "104"
 }, {
     "RK": "105",
-    "PLAYER NAME": "David Njoku",
+    "Player": "David Njoku",
     "POS": "TE10",
     "RK COPY": "105"
 }, {
     "RK": "106",
-    "PLAYER NAME": "Pat Freiermuth",
+    "Player": "Pat Freiermuth",
     "POS": "TE11",
     "RK COPY": "106"
 }, {
     "RK": "107",
-    "PLAYER NAME": "Nick Chubb",
+    "Player": "Nick Chubb",
     "POS": "RB39",
     "RK COPY": "107"
 }, {
     "RK": "108",
-    "PLAYER NAME": "Darnell Mooney",
+    "Player": "Darnell Mooney",
     "POS": "WR44",
     "RK COPY": "108"
 }, {
     "RK": "109",
-    "PLAYER NAME": "Tyjae Spears",
+    "Player": "Tyjae Spears",
     "POS": "RB40",
     "RK COPY": "109"
 }, {
     "RK": "110",
-    "PLAYER NAME": "Jordan Addison",
+    "Player": "Jordan Addison",
     "POS": "WR45",
     "RK COPY": "110"
 }, {
     "RK": "111",
-    "PLAYER NAME": "Keenan Allen",
+    "Player": "Keenan Allen",
     "POS": "WR46",
     "RK COPY": "111"
 }, {
     "RK": "112",
-    "PLAYER NAME": "Baker Mayfield",
+    "Player": "Baker Mayfield",
     "POS": "QB15",
     "RK COPY": "112"
 }, {
     "RK": "113",
-    "PLAYER NAME": "Geno Smith",
+    "Player": "Geno Smith",
     "POS": "QB16",
     "RK COPY": "113"
 }, {
     "RK": "114",
-    "PLAYER NAME": "Tucker Kraft",
+    "Player": "Tucker Kraft",
     "POS": "TE12",
     "RK COPY": "114"
 }, {
     "RK": "115",
-    "PLAYER NAME": "T.J. Hockenson",
+    "Player": "T.J. Hockenson",
     "POS": "TE13",
     "RK COPY": "115"
 }, {
     "RK": "116",
-    "PLAYER NAME": "Sam Darnold",
+    "Player": "Sam Darnold",
     "POS": "QB17",
     "RK COPY": "116"
 }, {
     "RK": "117",
-    "PLAYER NAME": "Kyle Pitts",
+    "Player": "Kyle Pitts",
     "POS": "TE14",
     "RK COPY": "117"
 }, {
     "RK": "118",
-    "PLAYER NAME": "Jakobi Meyers",
+    "Player": "Jakobi Meyers",
     "POS": "WR47",
     "RK COPY": "118"
 }, {
     "RK": "119",
-    "PLAYER NAME": "Jauan Jennings",
+    "Player": "Jauan Jennings",
     "POS": "WR48",
     "RK COPY": "119"
 }, {
     "RK": "120",
-    "PLAYER NAME": "Ty Chandler",
+    "Player": "Ty Chandler",
     "POS": "RB41",
     "RK COPY": "120"
 }, {
     "RK": "121",
-    "PLAYER NAME": "Wan'Dale Robinson",
+    "Player": "Wan'Dale Robinson",
     "POS": "WR49",
     "RK COPY": "121"
 }, {
     "RK": "122",
-    "PLAYER NAME": "Isaiah Likely",
+    "Player": "Isaiah Likely",
     "POS": "TE15",
     "RK COPY": "122"
 }, {
     "RK": "123",
-    "PLAYER NAME": "Dontayvion Wicks",
+    "Player": "Dontayvion Wicks",
     "POS": "WR50",
     "RK COPY": "123"
 }, {
     "RK": "124",
-    "PLAYER NAME": "Tyler Allgeier",
+    "Player": "Tyler Allgeier",
     "POS": "RB42",
     "RK COPY": "124"
 }, {
     "RK": "125",
-    "PLAYER NAME": "Cole Kmet",
+    "Player": "Cole Kmet",
     "POS": "TE16",
     "RK COPY": "125"
 }, {
     "RK": "126",
-    "PLAYER NAME": "Derek Carr",
+    "Player": "Derek Carr",
     "POS": "QB18",
     "RK COPY": "126"
 }, {
     "RK": "127",
-    "PLAYER NAME": "DeAndre Hopkins",
+    "Player": "DeAndre Hopkins",
     "POS": "WR51",
     "RK COPY": "127"
 }, {
     "RK": "128",
-    "PLAYER NAME": "Romeo Doubs",
+    "Player": "Romeo Doubs",
     "POS": "WR52",
     "RK COPY": "128"
 }, {
     "RK": "129",
-    "PLAYER NAME": "Caleb Williams",
+    "Player": "Caleb Williams",
     "POS": "QB19",
     "RK COPY": "129"
 }, {
     "RK": "130",
-    "PLAYER NAME": "Zamir White",
+    "Player": "Zamir White",
     "POS": "RB43",
     "RK COPY": "130"
 }, {
     "RK": "131",
-    "PLAYER NAME": "Jerry Jeudy",
+    "Player": "Jerry Jeudy",
     "POS": "WR53",
     "RK COPY": "131"
 }, {
     "RK": "132",
-    "PLAYER NAME": "Jaylen Warren",
+    "Player": "Jaylen Warren",
     "POS": "RB44",
     "RK COPY": "132"
 }, {
     "RK": "133",
-    "PLAYER NAME": "Keon Coleman",
+    "Player": "Keon Coleman",
     "POS": "WR54",
     "RK COPY": "133"
 }, {
     "RK": "134",
-    "PLAYER NAME": "Mark Andrews",
+    "Player": "Mark Andrews",
     "POS": "TE17",
     "RK COPY": "134"
 }, {
     "RK": "135",
-    "PLAYER NAME": "Courtland Sutton",
+    "Player": "Courtland Sutton",
     "POS": "WR55",
     "RK COPY": "135"
 }, {
     "RK": "136",
-    "PLAYER NAME": "Samaje Perine",
+    "Player": "Samaje Perine",
     "POS": "RB45",
     "RK COPY": "136"
 }, {
     "RK": "137",
-    "PLAYER NAME": "Kareem Hunt",
+    "Player": "Kareem Hunt",
     "POS": "RB46",
     "RK COPY": "137"
 }, {
     "RK": "138",
-    "PLAYER NAME": "Alexander Mattison",
+    "Player": "Alexander Mattison",
     "POS": "RB47",
     "RK COPY": "138"
 }, {
     "RK": "139",
-    "PLAYER NAME": "Zach Ertz",
+    "Player": "Zach Ertz",
     "POS": "TE18",
     "RK COPY": "139"
 }, {
     "RK": "140",
-    "PLAYER NAME": "Tyler Lockett",
+    "Player": "Tyler Lockett",
     "POS": "WR56",
     "RK COPY": "140"
 }, {
     "RK": "141",
-    "PLAYER NAME": "Christian Watson",
+    "Player": "Christian Watson",
     "POS": "WR57",
     "RK COPY": "141"
 }, {
     "RK": "142",
-    "PLAYER NAME": "Roschon Johnson",
+    "Player": "Roschon Johnson",
     "POS": "RB48",
     "RK COPY": "142"
 }, {
     "RK": "143",
-    "PLAYER NAME": "New York Jets",
+    "Player": "New York Jets",
     "POS": "DST1",
     "RK COPY": "143"
 }, {
     "RK": "144",
-    "PLAYER NAME": "Ray Davis",
+    "Player": "Ray Davis",
     "POS": "RB49",
     "RK COPY": "144"
 }, {
     "RK": "145",
-    "PLAYER NAME": "Tank Bigsby",
+    "Player": "Tank Bigsby",
     "POS": "RB50",
     "RK COPY": "145"
 }, {
     "RK": "146",
-    "PLAYER NAME": "Taysom Hill",
+    "Player": "Taysom Hill",
     "POS": "TE19",
     "RK COPY": "146"
 }, {
     "RK": "147",
-    "PLAYER NAME": "Justice Hill",
+    "Player": "Justice Hill",
     "POS": "RB51",
     "RK COPY": "147"
 }, {
     "RK": "148",
-    "PLAYER NAME": "Hunter Henry",
+    "Player": "Hunter Henry",
     "POS": "TE20",
     "RK COPY": "148"
 }, {
     "RK": "149",
-    "PLAYER NAME": "Pittsburgh Steelers",
+    "Player": "Pittsburgh Steelers",
     "POS": "DST2",
     "RK COPY": "149"
 }, {
     "RK": "150",
-    "PLAYER NAME": "Aaron Rodgers",
+    "Player": "Aaron Rodgers",
     "POS": "QB20",
     "RK COPY": "150"
 }, {
     "RK": "151",
-    "PLAYER NAME": "Josh Downs",
+    "Player": "Josh Downs",
     "POS": "WR58",
     "RK COPY": "151"
 }, {
     "RK": "152",
-    "PLAYER NAME": "Isiah Pacheco",
+    "Player": "Isiah Pacheco",
     "POS": "RB52",
     "RK COPY": "152"
 }, {
     "RK": "153",
-    "PLAYER NAME": "Jaleel McLaughlin",
+    "Player": "Jaleel McLaughlin",
     "POS": "RB53",
     "RK COPY": "153"
 }, {
     "RK": "154",
-    "PLAYER NAME": "Dalton Schultz",
+    "Player": "Dalton Schultz",
     "POS": "TE21",
     "RK COPY": "154"
 }, {
     "RK": "155",
-    "PLAYER NAME": "Trevor Lawrence",
+    "Player": "Trevor Lawrence",
     "POS": "QB21",
     "RK COPY": "155"
 }, {
     "RK": "156",
-    "PLAYER NAME": "Matthew Stafford",
+    "Player": "Matthew Stafford",
     "POS": "QB22",
     "RK COPY": "156"
 }, {
     "RK": "157",
-    "PLAYER NAME": "Quentin Johnston",
+    "Player": "Quentin Johnston",
     "POS": "WR59",
     "RK COPY": "157"
 }, {
     "RK": "158",
-    "PLAYER NAME": "Raheem Mostert",
+    "Player": "Raheem Mostert",
     "POS": "RB54",
     "RK COPY": "158"
 }, {
     "RK": "159",
-    "PLAYER NAME": "Xavier Legette",
+    "Player": "Xavier Legette",
     "POS": "WR60",
     "RK COPY": "159"
 }, {
     "RK": "160",
-    "PLAYER NAME": "Daniel Jones",
+    "Player": "Daniel Jones",
     "POS": "QB23",
     "RK COPY": "160"
 }, {
     "RK": "161",
-    "PLAYER NAME": "Kirk Cousins",
+    "Player": "Kirk Cousins",
     "POS": "QB24",
     "RK COPY": "161"
 }, {
     "RK": "162",
-    "PLAYER NAME": "New Orleans Saints",
+    "Player": "New Orleans Saints",
     "POS": "DST3",
     "RK COPY": "162"
 }, {
     "RK": "163",
-    "PLAYER NAME": "Carson Steele",
+    "Player": "Carson Steele",
     "POS": "RB55",
     "RK COPY": "163"
 }, {
     "RK": "164",
-    "PLAYER NAME": "Mike Gesicki",
+    "Player": "Mike Gesicki",
     "POS": "TE22",
     "RK COPY": "164"
 }, {
     "RK": "165",
-    "PLAYER NAME": "Trey Sermon",
+    "Player": "Trey Sermon",
     "POS": "RB56",
     "RK COPY": "165"
 }, {
     "RK": "166",
-    "PLAYER NAME": "Brandon Aubrey",
+    "Player": "Brandon Aubrey",
     "POS": "K1",
     "RK COPY": "166"
 }, {
     "RK": "167",
-    "PLAYER NAME": "Brandin Cooks",
+    "Player": "Brandin Cooks",
     "POS": "WR61",
     "RK COPY": "167"
 }, {
     "RK": "168",
-    "PLAYER NAME": "Mike Williams",
+    "Player": "Mike Williams",
     "POS": "WR62",
     "RK COPY": "168"
 }, {
     "RK": "169",
-    "PLAYER NAME": "Tyler Conklin",
+    "Player": "Tyler Conklin",
     "POS": "TE23",
     "RK COPY": "169"
 }, {
     "RK": "170",
-    "PLAYER NAME": "Justin Herbert",
+    "Player": "Justin Herbert",
     "POS": "QB25",
     "RK COPY": "170"
 }, {
     "RK": "171",
-    "PLAYER NAME": "Kansas City Chiefs",
+    "Player": "Kansas City Chiefs",
     "POS": "DST4",
     "RK COPY": "171"
 }, {
     "RK": "172",
-    "PLAYER NAME": "Andrei Iosivas",
+    "Player": "Andrei Iosivas",
     "POS": "WR63",
     "RK COPY": "172"
 }, {
     "RK": "173",
-    "PLAYER NAME": "Jalen Tolbert",
+    "Player": "Jalen Tolbert",
     "POS": "WR64",
     "RK COPY": "173"
 }, {
     "RK": "174",
-    "PLAYER NAME": "Baltimore Ravens",
+    "Player": "Baltimore Ravens",
     "POS": "DST5",
     "RK COPY": "174"
 }, {
     "RK": "175",
-    "PLAYER NAME": "San Francisco 49ers",
+    "Player": "San Francisco 49ers",
     "POS": "DST6",
     "RK COPY": "175"
 }, {
     "RK": "176",
-    "PLAYER NAME": "Cam Akers",
+    "Player": "Cam Akers",
     "POS": "RB57",
     "RK COPY": "176"
 }, {
     "RK": "177",
-    "PLAYER NAME": "Justin Tucker",
+    "Player": "Justin Tucker",
     "POS": "K2",
     "RK COPY": "177"
 }, {
     "RK": "178",
-    "PLAYER NAME": "Colby Parkinson",
+    "Player": "Colby Parkinson",
     "POS": "TE24",
     "RK COPY": "178"
 }, {
     "RK": "179",
-    "PLAYER NAME": "Ezekiel Elliott",
+    "Player": "Ezekiel Elliott",
     "POS": "RB58",
     "RK COPY": "179"
 }, {
     "RK": "180",
-    "PLAYER NAME": "Demarcus Robinson",
+    "Player": "Demarcus Robinson",
     "POS": "WR65",
     "RK COPY": "180"
 }, {
     "RK": "181",
-    "PLAYER NAME": "Antonio Gibson",
+    "Player": "Antonio Gibson",
     "POS": "RB59",
     "RK COPY": "181"
 }, {
     "RK": "182",
-    "PLAYER NAME": "Allen Lazard",
+    "Player": "Allen Lazard",
     "POS": "WR66",
     "RK COPY": "182"
 }, {
     "RK": "183",
-    "PLAYER NAME": "Michael Wilson",
+    "Player": "Michael Wilson",
     "POS": "WR67",
     "RK COPY": "183"
 }, {
     "RK": "184",
-    "PLAYER NAME": "Gus Edwards",
+    "Player": "Gus Edwards",
     "POS": "RB60",
     "RK COPY": "184"
 }, {
     "RK": "185",
-    "PLAYER NAME": "Harrison Butker",
+    "Player": "Harrison Butker",
     "POS": "K3",
     "RK COPY": "185"
 }, {
     "RK": "186",
-    "PLAYER NAME": "Andy Dalton",
+    "Player": "Andy Dalton",
     "POS": "QB26",
     "RK COPY": "186"
 }, {
     "RK": "187",
-    "PLAYER NAME": "Jaylen Wright",
+    "Player": "Jaylen Wright",
     "POS": "RB61",
     "RK COPY": "187"
 }, {
     "RK": "188",
-    "PLAYER NAME": "Greg Dortch",
+    "Player": "Greg Dortch",
     "POS": "WR68",
     "RK COPY": "188"
 }, {
     "RK": "189",
-    "PLAYER NAME": "Jordan Whittington",
+    "Player": "Jordan Whittington",
     "POS": "WR69",
     "RK COPY": "189"
 }, {
     "RK": "190",
-    "PLAYER NAME": "Cade Otton",
+    "Player": "Cade Otton",
     "POS": "TE25",
     "RK COPY": "190"
 }, {
     "RK": "191",
-    "PLAYER NAME": "Joshua Palmer",
+    "Player": "Joshua Palmer",
     "POS": "WR70",
     "RK COPY": "191"
 }, {
     "RK": "192",
-    "PLAYER NAME": "Cleveland Browns",
+    "Player": "Cleveland Browns",
     "POS": "DST7",
     "RK COPY": "192"
 }, {
     "RK": "193",
-    "PLAYER NAME": "Buffalo Bills",
+    "Player": "Buffalo Bills",
     "POS": "DST8",
     "RK COPY": "193"
 }, {
     "RK": "194",
-    "PLAYER NAME": "Blake Corum",
+    "Player": "Blake Corum",
     "POS": "RB62",
     "RK COPY": "194"
 }, {
     "RK": "195",
-    "PLAYER NAME": "Seattle Seahawks",
+    "Player": "Seattle Seahawks",
     "POS": "DST9",
     "RK COPY": "195"
 }, {
     "RK": "196",
-    "PLAYER NAME": "Noah Fant",
+    "Player": "Noah Fant",
     "POS": "TE26",
     "RK COPY": "196"
 }, {
     "RK": "197",
-    "PLAYER NAME": "Dallas Cowboys",
+    "Player": "Dallas Cowboys",
     "POS": "DST10",
     "RK COPY": "197"
 }, {
     "RK": "198",
-    "PLAYER NAME": "Deshaun Watson",
+    "Player": "Deshaun Watson",
     "POS": "QB27",
     "RK COPY": "198"
 }, {
     "RK": "199",
-    "PLAYER NAME": "Alec Pierce",
+    "Player": "Alec Pierce",
     "POS": "WR71",
     "RK COPY": "199"
 }, {
     "RK": "200",
-    "PLAYER NAME": "DeMario Douglas",
+    "Player": "DeMario Douglas",
     "POS": "WR72",
     "RK COPY": "200"
 }, {
     "RK": "201",
-    "PLAYER NAME": "Ka'imi Fairbairn",
+    "Player": "Ka'imi Fairbairn",
     "POS": "K4",
     "RK COPY": "201"
 }, {
     "RK": "202",
-    "PLAYER NAME": "Jake Moody",
+    "Player": "Jake Moody",
     "POS": "K5",
     "RK COPY": "202"
 }, {
     "RK": "203",
-    "PLAYER NAME": "D'Onta Foreman",
+    "Player": "D'Onta Foreman",
     "POS": "RB63",
     "RK COPY": "203"
 }, {
     "RK": "204",
-    "PLAYER NAME": "Trey Benson",
+    "Player": "Trey Benson",
     "POS": "RB64",
     "RK COPY": "204"
 }, {
     "RK": "205",
-    "PLAYER NAME": "Philadelphia Eagles",
+    "Player": "Philadelphia Eagles",
     "POS": "DST11",
     "RK COPY": "205"
 }, {
     "RK": "206",
-    "PLAYER NAME": "Luke McCaffrey",
+    "Player": "Luke McCaffrey",
     "POS": "WR73",
     "RK COPY": "206"
 }, {
     "RK": "207",
-    "PLAYER NAME": "Houston Texans",
+    "Player": "Houston Texans",
     "POS": "DST12",
     "RK COPY": "207"
 }, {
     "RK": "208",
-    "PLAYER NAME": "Emanuel Wilson",
+    "Player": "Emanuel Wilson",
     "POS": "RB65",
     "RK COPY": "208"
 }, {
     "RK": "209",
-    "PLAYER NAME": "Chicago Bears",
+    "Player": "Chicago Bears",
     "POS": "DST13",
     "RK COPY": "209"
 }, {
     "RK": "210",
-    "PLAYER NAME": "Tre Tucker",
+    "Player": "Tre Tucker",
     "POS": "WR74",
     "RK COPY": "210"
 }, {
     "RK": "211",
-    "PLAYER NAME": "Gabe Davis",
+    "Player": "Gabe Davis",
     "POS": "WR75",
     "RK COPY": "211"
 }, {
     "RK": "212",
-    "PLAYER NAME": "Ja'Lynn Polk",
+    "Player": "Ja'Lynn Polk",
     "POS": "WR76",
     "RK COPY": "212"
 }, {
     "RK": "213",
-    "PLAYER NAME": "Tutu Atwell",
+    "Player": "Tutu Atwell",
     "POS": "WR77",
     "RK COPY": "213"
 }, {
     "RK": "214",
-    "PLAYER NAME": "Jalen McMillan",
+    "Player": "Jalen McMillan",
     "POS": "WR78",
     "RK COPY": "214"
 }, {
     "RK": "215",
-    "PLAYER NAME": "Khalil Herbert",
+    "Player": "Khalil Herbert",
     "POS": "RB66",
     "RK COPY": "215"
 }, {
     "RK": "216",
-    "PLAYER NAME": "Younghoe Koo",
+    "Player": "Younghoe Koo",
     "POS": "K6",
     "RK COPY": "216"
 }, {
     "RK": "217",
-    "PLAYER NAME": "Erick All Jr.",
+    "Player": "Erick All Jr.",
     "POS": "TE27",
     "RK COPY": "217"
 }, {
     "RK": "218",
-    "PLAYER NAME": "Clyde Edwards-Helaire",
+    "Player": "Clyde Edwards-Helaire",
     "POS": "RB67",
     "RK COPY": "218"
 }, {
     "RK": "219",
-    "PLAYER NAME": "Minnesota Vikings",
+    "Player": "Minnesota Vikings",
     "POS": "DST14",
     "RK COPY": "219"
 }, {
     "RK": "220",
-    "PLAYER NAME": "Detroit Lions",
+    "Player": "Detroit Lions",
     "POS": "DST15",
     "RK COPY": "220"
 }, {
     "RK": "221",
-    "PLAYER NAME": "Ray-Ray McCloud III",
+    "Player": "Ray-Ray McCloud III",
     "POS": "WR79",
     "RK COPY": "221"
 }, {
     "RK": "222",
-    "PLAYER NAME": "Tyrone Tracy Jr.",
+    "Player": "Tyrone Tracy Jr.",
     "POS": "RB68",
     "RK COPY": "222"
 }, {
     "RK": "223",
-    "PLAYER NAME": "Rashod Bateman",
+    "Player": "Rashod Bateman",
     "POS": "WR80",
     "RK COPY": "223"
 }, {
     "RK": "224",
-    "PLAYER NAME": "Los Angeles Chargers",
+    "Player": "Los Angeles Chargers",
     "POS": "DST16",
     "RK COPY": "224"
 }, {
     "RK": "225",
-    "PLAYER NAME": "Bo Nix",
+    "Player": "Bo Nix",
     "POS": "QB28",
     "RK COPY": "225"
 }, {
     "RK": "226",
-    "PLAYER NAME": "Evan McPherson",
+    "Player": "Evan McPherson",
     "POS": "K7",
     "RK COPY": "226"
 }, {
     "RK": "227",
-    "PLAYER NAME": "Jamaal Williams",
+    "Player": "Jamaal Williams",
     "POS": "RB69",
     "RK COPY": "227"
 }, {
     "RK": "228",
-    "PLAYER NAME": "Matt Prater",
+    "Player": "Matt Prater",
     "POS": "K8",
     "RK COPY": "228"
 }, {
     "RK": "229",
-    "PLAYER NAME": "Jalen Nailor",
+    "Player": "Jalen Nailor",
     "POS": "WR81",
     "RK COPY": "229"
 }, {
     "RK": "230",
-    "PLAYER NAME": "Jake Elliott",
+    "Player": "Jake Elliott",
     "POS": "K9",
     "RK COPY": "230"
 }, {
     "RK": "231",
-    "PLAYER NAME": "Curtis Samuel",
+    "Player": "Curtis Samuel",
     "POS": "WR82",
     "RK COPY": "231"
 }, {
     "RK": "232",
-    "PLAYER NAME": "Will Levis",
+    "Player": "Will Levis",
     "POS": "QB29",
     "RK COPY": "232"
 }, {
     "RK": "233",
-    "PLAYER NAME": "Elijah Moore",
+    "Player": "Elijah Moore",
     "POS": "WR83",
     "RK COPY": "233"
 }, {
     "RK": "234",
-    "PLAYER NAME": "Jason Myers",
+    "Player": "Jason Myers",
     "POS": "K10",
     "RK COPY": "234"
 }, {
     "RK": "235",
-    "PLAYER NAME": "Juwan Johnson",
+    "Player": "Juwan Johnson",
     "POS": "TE28",
     "RK COPY": "235"
 }, {
     "RK": "236",
-    "PLAYER NAME": "Tyler Bass",
+    "Player": "Tyler Bass",
     "POS": "K11",
     "RK COPY": "236"
 }, {
     "RK": "237",
-    "PLAYER NAME": "Denver Broncos",
+    "Player": "Denver Broncos",
     "POS": "DST17",
     "RK COPY": "237"
 }, {
     "RK": "238",
-    "PLAYER NAME": "Cairo Santos",
+    "Player": "Cairo Santos",
     "POS": "K12",
     "RK COPY": "238"
 }, {
     "RK": "239",
-    "PLAYER NAME": "Drake Maye",
+    "Player": "Drake Maye",
     "POS": "QB30",
     "RK COPY": "239"
 }, {
     "RK": "240",
-    "PLAYER NAME": "Adonai Mitchell",
+    "Player": "Adonai Mitchell",
     "POS": "WR84",
     "RK COPY": "240"
 }, {
     "RK": "241",
-    "PLAYER NAME": "Isaac Guerendo",
+    "Player": "Isaac Guerendo",
     "POS": "RB70",
     "RK COPY": "241"
 }, {
     "RK": "242",
-    "PLAYER NAME": "Josh Reynolds",
+    "Player": "Josh Reynolds",
     "POS": "WR85",
     "RK COPY": "242"
 }, {
     "RK": "243",
-    "PLAYER NAME": "Green Bay Packers",
+    "Player": "Green Bay Packers",
     "POS": "DST18",
     "RK COPY": "243"
 }, {
     "RK": "244",
-    "PLAYER NAME": "Greg Dulcich",
+    "Player": "Greg Dulcich",
     "POS": "TE29",
     "RK COPY": "244"
 }, {
     "RK": "245",
-    "PLAYER NAME": "Blake Grupe",
+    "Player": "Blake Grupe",
     "POS": "K13",
     "RK COPY": "245"
 }, {
     "RK": "246",
-    "PLAYER NAME": "Cordarrelle Patterson",
+    "Player": "Cordarrelle Patterson",
     "POS": "RB71",
     "RK COPY": "246"
 }, {
     "RK": "247",
-    "PLAYER NAME": "Ricky Pearsall",
+    "Player": "Ricky Pearsall",
     "POS": "WR86",
     "RK COPY": "247"
 }, {
     "RK": "248",
-    "PLAYER NAME": "Adam Thielen",
+    "Player": "Adam Thielen",
     "POS": "WR87",
     "RK COPY": "248"
 }, {
     "RK": "249",
-    "PLAYER NAME": "MarShawn Lloyd",
+    "Player": "MarShawn Lloyd",
     "POS": "RB72",
     "RK COPY": "249"
 }, {
     "RK": "250",
-    "PLAYER NAME": "Indianapolis Colts",
+    "Player": "Indianapolis Colts",
     "POS": "DST19",
     "RK COPY": "250"
 }, {
     "RK": "251",
-    "PLAYER NAME": "Jonnu Smith",
+    "Player": "Jonnu Smith",
     "POS": "TE30",
     "RK COPY": "251"
 }, {
     "RK": "252",
-    "PLAYER NAME": "Ty Johnson",
+    "Player": "Ty Johnson",
     "POS": "RB73",
     "RK COPY": "252"
 }, {
     "RK": "253",
-    "PLAYER NAME": "Tua Tagovailoa",
+    "Player": "Tua Tagovailoa",
     "POS": "QB31",
     "RK COPY": "253"
 }, {
     "RK": "254",
-    "PLAYER NAME": "Cincinnati Bengals",
+    "Player": "Cincinnati Bengals",
     "POS": "DST20",
     "RK COPY": "254"
 }, {
     "RK": "255",
-    "PLAYER NAME": "Kenneth Gainwell",
+    "Player": "Kenneth Gainwell",
     "POS": "RB74",
     "RK COPY": "255"
 }, {
     "RK": "256",
-    "PLAYER NAME": "Miles Sanders",
+    "Player": "Miles Sanders",
     "POS": "RB75",
     "RK COPY": "256"
 }, {
     "RK": "257",
-    "PLAYER NAME": "Noah Brown",
+    "Player": "Noah Brown",
     "POS": "WR88",
     "RK COPY": "257"
 }, {
     "RK": "258",
-    "PLAYER NAME": "Darius Slayton",
+    "Player": "Darius Slayton",
     "POS": "WR89",
     "RK COPY": "258"
 }, {
     "RK": "259",
-    "PLAYER NAME": "Audric Estime",
+    "Player": "Audric Estime",
     "POS": "RB76",
     "RK COPY": "259"
 }, {
     "RK": "260",
-    "PLAYER NAME": "Tyler Boyd",
+    "Player": "Tyler Boyd",
     "POS": "WR90",
     "RK COPY": "260"
 }, {
     "RK": "261",
-    "PLAYER NAME": "Cameron Dicker",
+    "Player": "Cameron Dicker",
     "POS": "K14",
     "RK COPY": "261"
 }, {
     "RK": "262",
-    "PLAYER NAME": "Greg Zuerlein",
+    "Player": "Greg Zuerlein",
     "POS": "K15",
     "RK COPY": "262"
 }, {
     "RK": "263",
-    "PLAYER NAME": "Gardner Minshew II",
+    "Player": "Gardner Minshew II",
     "POS": "QB32",
     "RK COPY": "263"
 }, {
     "RK": "264",
-    "PLAYER NAME": "Hayden Hurst",
+    "Player": "Hayden Hurst",
     "POS": "TE31",
     "RK COPY": "264"
 }, {
     "RK": "265",
-    "PLAYER NAME": "Chris Boswell",
+    "Player": "Chris Boswell",
     "POS": "K16",
     "RK COPY": "265"
 }, {
     "RK": "266",
-    "PLAYER NAME": "Jonathan Mingo",
+    "Player": "Jonathan Mingo",
     "POS": "WR91",
     "RK COPY": "266"
 }, {
     "RK": "267",
-    "PLAYER NAME": "Jason Sanders",
+    "Player": "Jason Sanders",
     "POS": "K17",
     "RK COPY": "267"
 }, {
     "RK": "268",
-    "PLAYER NAME": "Matt Gay",
+    "Player": "Matt Gay",
     "POS": "K18",
     "RK COPY": "268"
 }, {
     "RK": "269",
-    "PLAYER NAME": "New England Patriots",
+    "Player": "New England Patriots",
     "POS": "DST21",
     "RK COPY": "269"
 }, {
     "RK": "270",
-    "PLAYER NAME": "Dameon Pierce",
+    "Player": "Dameon Pierce",
     "POS": "RB77",
     "RK COPY": "270"
 }, {
     "RK": "271",
-    "PLAYER NAME": "Tampa Bay Buccaneers",
+    "Player": "Tampa Bay Buccaneers",
     "POS": "DST22",
     "RK COPY": "271"
 }, {
     "RK": "272",
-    "PLAYER NAME": "Kendre Miller",
+    "Player": "Kendre Miller",
     "POS": "RB78",
     "RK COPY": "272"
 }, {
     "RK": "273",
-    "PLAYER NAME": "K.J. Osborn",
+    "Player": "K.J. Osborn",
     "POS": "WR92",
     "RK COPY": "273"
 }, {
     "RK": "274",
-    "PLAYER NAME": "Chig Okonkwo",
+    "Player": "Chig Okonkwo",
     "POS": "TE32",
     "RK COPY": "274"
 }, {
     "RK": "275",
-    "PLAYER NAME": "Daniel Carlson",
+    "Player": "Daniel Carlson",
     "POS": "K19",
     "RK COPY": "275"
 }, {
     "RK": "276",
-    "PLAYER NAME": "Jeff Wilson Jr.",
+    "Player": "Jeff Wilson Jr.",
     "POS": "RB79",
     "RK COPY": "276"
 }, {
     "RK": "277",
-    "PLAYER NAME": "Brenton Strange",
+    "Player": "Brenton Strange",
     "POS": "TE33",
     "RK COPY": "277"
 }, {
     "RK": "278",
-    "PLAYER NAME": "Jahan Dotson",
+    "Player": "Jahan Dotson",
     "POS": "WR93",
     "RK COPY": "278"
 }, {
     "RK": "279",
-    "PLAYER NAME": "Johnny Wilson",
+    "Player": "Johnny Wilson",
     "POS": "WR94",
     "RK COPY": "279"
 }, {
     "RK": "280",
-    "PLAYER NAME": "Theo Johnson",
+    "Player": "Theo Johnson",
     "POS": "TE34",
     "RK COPY": "280"
 }, {
     "RK": "281",
-    "PLAYER NAME": "JuJu Smith-Schuster",
+    "Player": "JuJu Smith-Schuster",
     "POS": "WR95",
     "RK COPY": "281"
 }, {
     "RK": "282",
-    "PLAYER NAME": "Jake Bates",
+    "Player": "Jake Bates",
     "POS": "K20",
     "RK COPY": "282"
 }, {
     "RK": "283",
-    "PLAYER NAME": "Kimani Vidal",
+    "Player": "Kimani Vidal",
     "POS": "RB80",
     "RK COPY": "283"
 }, {
     "RK": "284",
-    "PLAYER NAME": "Tyler Johnson",
+    "Player": "Tyler Johnson",
     "POS": "WR96",
     "RK COPY": "284"
 }, {
     "RK": "285",
-    "PLAYER NAME": "Atlanta Falcons",
+    "Player": "Atlanta Falcons",
     "POS": "DST23",
     "RK COPY": "285"
 }, {
     "RK": "286",
-    "PLAYER NAME": "Gerald Everett",
+    "Player": "Gerald Everett",
     "POS": "TE35",
     "RK COPY": "286"
 }, {
     "RK": "287",
-    "PLAYER NAME": "Chase McLaughlin",
+    "Player": "Chase McLaughlin",
     "POS": "K21",
     "RK COPY": "287"
 }, {
     "RK": "288",
-    "PLAYER NAME": "Ronnie Rivers",
+    "Player": "Ronnie Rivers",
     "POS": "RB81",
     "RK COPY": "288"
 }, {
     "RK": "289",
-    "PLAYER NAME": "Las Vegas Raiders",
+    "Player": "Las Vegas Raiders",
     "POS": "DST24",
     "RK COPY": "289"
 }, {
     "RK": "290",
-    "PLAYER NAME": "Dyami Brown",
+    "Player": "Dyami Brown",
     "POS": "WR97",
     "RK COPY": "290"
 }, {
     "RK": "291",
-    "PLAYER NAME": "Ben Sinnott",
+    "Player": "Ben Sinnott",
     "POS": "TE36",
     "RK COPY": "291"
 }, {
     "RK": "292",
-    "PLAYER NAME": "Dawson Knox",
+    "Player": "Dawson Knox",
     "POS": "TE37",
     "RK COPY": "292"
 }, {
     "RK": "293",
-    "PLAYER NAME": "Marvin Mims Jr.",
+    "Player": "Marvin Mims Jr.",
     "POS": "WR98",
     "RK COPY": "293"
 }, {
     "RK": "294",
-    "PLAYER NAME": "Ja'Tavion Sanders",
+    "Player": "Ja'Tavion Sanders",
     "POS": "TE38",
     "RK COPY": "294"
 }, {
     "RK": "295",
-    "PLAYER NAME": "Jacksonville Jaguars",
+    "Player": "Jacksonville Jaguars",
     "POS": "DST25",
     "RK COPY": "295"
 }, {
     "RK": "296",
-    "PLAYER NAME": "Pierre Strong Jr.",
+    "Player": "Pierre Strong Jr.",
     "POS": "RB82",
     "RK COPY": "296"
 }, {
     "RK": "297",
-    "PLAYER NAME": "Johnny Mundt",
+    "Player": "Johnny Mundt",
     "POS": "TE39",
     "RK COPY": "297"
 }, {
     "RK": "298",
-    "PLAYER NAME": "Jermaine Burton",
+    "Player": "Jermaine Burton",
     "POS": "WR99",
     "RK COPY": "298"
 }, {
     "RK": "299",
-    "PLAYER NAME": "Dustin Hopkins",
+    "Player": "Dustin Hopkins",
     "POS": "K22",
     "RK COPY": "299"
 }, {
     "RK": "300",
-    "PLAYER NAME": "Nelson Agholor",
+    "Player": "Nelson Agholor",
     "POS": "WR100",
     "RK COPY": "300"
 }, {
     "RK": "301",
-    "PLAYER NAME": "Joshua Karty",
+    "Player": "Joshua Karty",
     "POS": "K23",
     "RK COPY": "301"
 }, {
     "RK": "302",
-    "PLAYER NAME": "New York Giants",
+    "Player": "New York Giants",
     "POS": "DST26",
     "RK COPY": "302"
 }, {
     "RK": "303",
-    "PLAYER NAME": "Will Reichard",
+    "Player": "Will Reichard",
     "POS": "K24",
     "RK COPY": "303"
 }, {
     "RK": "304",
-    "PLAYER NAME": "Nick Folk",
+    "Player": "Nick Folk",
     "POS": "K25",
     "RK COPY": "304"
 }, {
     "RK": "305",
-    "PLAYER NAME": "Austin Seibert",
+    "Player": "Austin Seibert",
     "POS": "K26",
     "RK COPY": "305"
 }, {
     "RK": "306",
-    "PLAYER NAME": "Michael Mayer",
+    "Player": "Michael Mayer",
     "POS": "TE40",
     "RK COPY": "306"
 }, {
     "RK": "307",
-    "PLAYER NAME": "Keaton Mitchell",
+    "Player": "Keaton Mitchell",
     "POS": "RB83",
     "RK COPY": "307"
 }, {
     "RK": "308",
-    "PLAYER NAME": "Dalvin Cook",
+    "Player": "Dalvin Cook",
     "POS": "RB84",
     "RK COPY": "308"
 }, {
     "RK": "309",
-    "PLAYER NAME": "Arizona Cardinals",
+    "Player": "Arizona Cardinals",
     "POS": "DST27",
     "RK COPY": "309"
 }, {
     "RK": "310",
-    "PLAYER NAME": "Calvin Austin III",
+    "Player": "Calvin Austin III",
     "POS": "WR101",
     "RK COPY": "310"
 }, {
     "RK": "311",
-    "PLAYER NAME": "Jacoby Brissett",
+    "Player": "Jacoby Brissett",
     "POS": "QB33",
     "RK COPY": "311"
 }, {
     "RK": "312",
-    "PLAYER NAME": "Emari Demercado",
+    "Player": "Emari Demercado",
     "POS": "RB85",
     "RK COPY": "312"
 }, {
     "RK": "313",
-    "PLAYER NAME": "Wil Lutz",
+    "Player": "Wil Lutz",
     "POS": "K27",
     "RK COPY": "313"
 }, {
     "RK": "314",
-    "PLAYER NAME": "Troy Franklin",
+    "Player": "Troy Franklin",
     "POS": "WR102",
     "RK COPY": "314"
 }, {
     "RK": "315",
-    "PLAYER NAME": "Luke Musgrave",
+    "Player": "Luke Musgrave",
     "POS": "TE41",
     "RK COPY": "315"
 }, {
     "RK": "316",
-    "PLAYER NAME": "Noah Gray",
+    "Player": "Noah Gray",
     "POS": "TE42",
     "RK COPY": "316"
 }, {
     "RK": "317",
-    "PLAYER NAME": "Kylen Granson",
+    "Player": "Kylen Granson",
     "POS": "TE43",
     "RK COPY": "317"
 }, {
     "RK": "318",
-    "PLAYER NAME": "DJ Chark Jr.",
+    "Player": "DJ Chark Jr.",
     "POS": "WR103",
     "RK COPY": "318"
 }, {
     "RK": "319",
-    "PLAYER NAME": "Eric Gray",
+    "Player": "Eric Gray",
     "POS": "RB86",
     "RK COPY": "319"
 }, {
     "RK": "320",
-    "PLAYER NAME": "Miami Dolphins",
+    "Player": "Miami Dolphins",
     "POS": "DST28",
     "RK COPY": "320"
 }, {
     "RK": "321",
-    "PLAYER NAME": "Eddy Pineiro",
+    "Player": "Eddy Pineiro",
     "POS": "K28",
     "RK COPY": "321"
 }, {
     "RK": "322",
-    "PLAYER NAME": "Brayden Narveson",
+    "Player": "Brayden Narveson",
     "POS": "K29",
     "RK COPY": "322"
 }, {
     "RK": "323",
-    "PLAYER NAME": "D'Ernest Johnson",
+    "Player": "D'Ernest Johnson",
     "POS": "RB87",
     "RK COPY": "323"
 }, {
     "RK": "324",
-    "PLAYER NAME": "Bo Melton",
+    "Player": "Bo Melton",
     "POS": "WR104",
     "RK COPY": "324"
 }, {
     "RK": "325",
-    "PLAYER NAME": "Russell Wilson",
+    "Player": "Russell Wilson",
     "POS": "QB34",
     "RK COPY": "325"
 }, {
     "RK": "326",
-    "PLAYER NAME": "Malik Washington",
+    "Player": "Malik Washington",
     "POS": "WR105",
     "RK COPY": "326"
 }, {
     "RK": "327",
-    "PLAYER NAME": "Jalin Hyatt",
+    "Player": "Jalin Hyatt",
     "POS": "WR106",
     "RK COPY": "327"
 }, {
     "RK": "328",
-    "PLAYER NAME": "Kalif Raymond",
+    "Player": "Kalif Raymond",
     "POS": "WR107",
     "RK COPY": "328"
 }, {
     "RK": "329",
-    "PLAYER NAME": "Olamide Zaccheaus",
+    "Player": "Olamide Zaccheaus",
     "POS": "WR108",
     "RK COPY": "329"
 }, {
     "RK": "330",
-    "PLAYER NAME": "Tyquan Thornton",
+    "Player": "Tyquan Thornton",
     "POS": "WR109",
     "RK COPY": "330"
 }, {
     "RK": "331",
-    "PLAYER NAME": "Washington Commanders",
+    "Player": "Washington Commanders",
     "POS": "DST29",
     "RK COPY": "331"
 }, {
     "RK": "332",
-    "PLAYER NAME": "Cedric Tillman",
+    "Player": "Cedric Tillman",
     "POS": "WR110",
     "RK COPY": "332"
 }, {
     "RK": "333",
-    "PLAYER NAME": "Jeremy McNichols",
+    "Player": "Jeremy McNichols",
     "POS": "RB88",
     "RK COPY": "333"
 }, {
     "RK": "334",
-    "PLAYER NAME": "Foster Moreau",
+    "Player": "Foster Moreau",
     "POS": "TE44",
     "RK COPY": "334"
 }, {
     "RK": "335",
-    "PLAYER NAME": "Britain Covey",
+    "Player": "Britain Covey",
     "POS": "WR111",
     "RK COPY": "335"
 }, {
     "RK": "336",
-    "PLAYER NAME": "Cam Little",
+    "Player": "Cam Little",
     "POS": "K30",
     "RK COPY": "336"
 }, {
     "RK": "337",
-    "PLAYER NAME": "Roman Wilson",
+    "Player": "Roman Wilson",
     "POS": "WR112",
     "RK COPY": "337"
 }, {
     "RK": "338",
-    "PLAYER NAME": "Jameis Winston",
+    "Player": "Jameis Winston",
     "POS": "QB35",
     "RK COPY": "338"
 }, {
     "RK": "339",
-    "PLAYER NAME": "Will Shipley",
+    "Player": "Will Shipley",
     "POS": "RB89",
     "RK COPY": "339"
 }, {
     "RK": "340",
-    "PLAYER NAME": "Tennessee Titans",
+    "Player": "Tennessee Titans",
     "POS": "DST30",
     "RK COPY": "340"
 }, {
     "RK": "341",
-    "PLAYER NAME": "Will Dissly",
+    "Player": "Will Dissly",
     "POS": "TE45",
     "RK COPY": "341"
 }, {
     "RK": "342",
-    "PLAYER NAME": "Justin Watson",
+    "Player": "Justin Watson",
     "POS": "WR113",
     "RK COPY": "342"
 }, {
     "RK": "343",
-    "PLAYER NAME": "Los Angeles Rams",
+    "Player": "Los Angeles Rams",
     "POS": "DST31",
     "RK COPY": "343"
 }, {
     "RK": "344",
-    "PLAYER NAME": "Blake Watson",
+    "Player": "Blake Watson",
     "POS": "RB90",
     "RK COPY": "344"
 }, {
     "RK": "345",
-    "PLAYER NAME": "Dylan Laube",
+    "Player": "Dylan Laube",
     "POS": "RB91",
     "RK COPY": "345"
 }, {
     "RK": "346",
-    "PLAYER NAME": "Graham Gano",
+    "Player": "Graham Gano",
     "POS": "K31",
     "RK COPY": "346"
 }, {
     "RK": "347",
-    "PLAYER NAME": "Devaughn Vele",
+    "Player": "Devaughn Vele",
     "POS": "WR114",
     "RK COPY": "347"
 }, {
     "RK": "348",
-    "PLAYER NAME": "Cody Schrader",
+    "Player": "Cody Schrader",
     "POS": "RB92",
     "RK COPY": "348"
 }, {
     "RK": "349",
-    "PLAYER NAME": "Mack Hollins",
+    "Player": "Mack Hollins",
     "POS": "WR115",
     "RK COPY": "349"
 }, {
     "RK": "350",
-    "PLAYER NAME": "Malik Willis",
+    "Player": "Malik Willis",
     "POS": "QB36",
     "RK COPY": "350"
 }, {
     "RK": "351",
-    "PLAYER NAME": "Jacob Cowing",
+    "Player": "Jacob Cowing",
     "POS": "WR116",
     "RK COPY": "351"
 }, {
     "RK": "352",
-    "PLAYER NAME": "Dare Ogunbowale",
+    "Player": "Dare Ogunbowale",
     "POS": "RB93",
     "RK COPY": "352"
 }, {
     "RK": "353",
-    "PLAYER NAME": "A.T. Perry",
+    "Player": "A.T. Perry",
     "POS": "WR117",
     "RK COPY": "353"
 }, {
     "RK": "354",
-    "PLAYER NAME": "Tyler Higbee",
+    "Player": "Tyler Higbee",
     "POS": "TE46",
     "RK COPY": "354"
 }, {
     "RK": "355",
-    "PLAYER NAME": "Treylon Burks",
+    "Player": "Treylon Burks",
     "POS": "WR118",
     "RK COPY": "355"
 }, {
     "RK": "356",
-    "PLAYER NAME": "Darnell Washington",
+    "Player": "Darnell Washington",
     "POS": "TE47",
     "RK COPY": "356"
 }, {
     "RK": "357",
-    "PLAYER NAME": "Michael Penix Jr.",
+    "Player": "Michael Penix Jr.",
     "POS": "QB37",
     "RK COPY": "357"
 }, {
     "RK": "358",
-    "PLAYER NAME": "Rashee Rice",
+    "Player": "Rashee Rice",
     "POS": "WR119",
     "RK COPY": "358"
 }, {
     "RK": "359",
-    "PLAYER NAME": "Joey Slye",
+    "Player": "Joey Slye",
     "POS": "K32",
     "RK COPY": "359"
 }, {
     "RK": "360",
-    "PLAYER NAME": "Tyler Huntley",
+    "Player": "Tyler Huntley",
     "POS": "QB38",
     "RK COPY": "360"
 }, {
     "RK": "361",
-    "PLAYER NAME": "Sione Vaki",
+    "Player": "Sione Vaki",
     "POS": "RB94",
     "RK COPY": "361"
 }, {
     "RK": "362",
-    "PLAYER NAME": "Brock Wright",
+    "Player": "Brock Wright",
     "POS": "TE48",
     "RK COPY": "362"
 }, {
     "RK": "363",
-    "PLAYER NAME": "Elijah Higgins",
+    "Player": "Elijah Higgins",
     "POS": "TE49",
     "RK COPY": "363"
 }, {
     "RK": "364",
-    "PLAYER NAME": "Aidan O'Connell",
+    "Player": "Aidan O'Connell",
     "POS": "QB39",
     "RK COPY": "364"
 }, {
     "RK": "365",
-    "PLAYER NAME": "Tyler Goodson",
+    "Player": "Tyler Goodson",
     "POS": "RB95",
     "RK COPY": "365"
 }, {
     "RK": "366",
-    "PLAYER NAME": "Van Jefferson",
+    "Player": "Van Jefferson",
     "POS": "WR120",
     "RK COPY": "366"
 }, {
     "RK": "367",
-    "PLAYER NAME": "Carolina Panthers",
+    "Player": "Carolina Panthers",
     "POS": "DST32",
     "RK COPY": "367"
 }, {
     "RK": "368",
-    "PLAYER NAME": "Josh Whyle",
+    "Player": "Josh Whyle",
     "POS": "TE50",
     "RK COPY": "368"
 }, {
     "RK": "369",
-    "PLAYER NAME": "Tim Patrick",
+    "Player": "Tim Patrick",
     "POS": "WR121",
     "RK COPY": "369"
 }, {
     "RK": "370",
-    "PLAYER NAME": "DeeJay Dallas",
+    "Player": "DeeJay Dallas",
     "POS": "RB96",
     "RK COPY": "370"
 }, {
     "RK": "371",
-    "PLAYER NAME": "Kendrick Bourne",
+    "Player": "Kendrick Bourne",
     "POS": "WR122",
     "RK COPY": "371"
 }, {
     "RK": "372",
-    "PLAYER NAME": "Davis Allen",
+    "Player": "Davis Allen",
     "POS": "TE51",
     "RK COPY": "372"
 }, {
     "RK": "373",
-    "PLAYER NAME": "Odell Beckham Jr.",
+    "Player": "Odell Beckham Jr.",
     "POS": "WR123",
     "RK COPY": "373"
 }, {
     "RK": "374",
-    "PLAYER NAME": "Kendall Milton",
+    "Player": "Kendall Milton",
     "POS": "RB97",
     "RK COPY": "374"
 }, {
     "RK": "375",
-    "PLAYER NAME": "Cade York",
+    "Player": "Cade York",
     "POS": "K33",
     "RK COPY": "375"
 }, {
     "RK": "376",
-    "PLAYER NAME": "Luke Schoonmaker",
+    "Player": "Luke Schoonmaker",
     "POS": "TE52",
     "RK COPY": "376"
 }, {
     "RK": "377",
-    "PLAYER NAME": "Craig Reynolds",
+    "Player": "Craig Reynolds",
     "POS": "RB98",
     "RK COPY": "377"
 }, {
     "RK": "378",
-    "PLAYER NAME": "Jared Wiley",
+    "Player": "Jared Wiley",
     "POS": "TE53",
     "RK COPY": "378"
 }, {
     "RK": "379",
-    "PLAYER NAME": "Deuce Vaughn",
+    "Player": "Deuce Vaughn",
     "POS": "RB99",
     "RK COPY": "379"
 }, {
     "RK": "380",
-    "PLAYER NAME": "Joe Flacco",
+    "Player": "Joe Flacco",
     "POS": "QB40",
     "RK COPY": "380"
 }, {
     "RK": "381",
-    "PLAYER NAME": "KaVontae Turpin",
+    "Player": "KaVontae Turpin",
     "POS": "WR124",
     "RK COPY": "381"
 }, {
     "RK": "382",
-    "PLAYER NAME": "Daniel Bellinger",
+    "Player": "Daniel Bellinger",
     "POS": "TE54",
     "RK COPY": "382"
 }, {
     "RK": "383",
-    "PLAYER NAME": "Isaiah Davis",
+    "Player": "Isaiah Davis",
     "POS": "RB100",
     "RK COPY": "383"
 }, {
     "RK": "384",
-    "PLAYER NAME": "Lil'Jordan Humphrey",
+    "Player": "Lil'Jordan Humphrey",
     "POS": "WR125",
     "RK COPY": "384"
 }, {
     "RK": "385",
-    "PLAYER NAME": "Lucas Krull",
+    "Player": "Lucas Krull",
     "POS": "TE55",
     "RK COPY": "385"
 }, {
     "RK": "386",
-    "PLAYER NAME": "Javon Baker",
+    "Player": "Javon Baker",
     "POS": "WR126",
     "RK COPY": "386"
 }, {
     "RK": "387",
-    "PLAYER NAME": "Tommy Tremble",
+    "Player": "Tommy Tremble",
     "POS": "TE56",
     "RK COPY": "387"
 }, {
     "RK": "388",
-    "PLAYER NAME": "Tyler Scott",
+    "Player": "Tyler Scott",
     "POS": "WR127",
     "RK COPY": "388"
 }, {
     "RK": "389",
-    "PLAYER NAME": "Cade Stover",
+    "Player": "Cade Stover",
     "POS": "TE57",
     "RK COPY": "389"
 }, {
     "RK": "390",
-    "PLAYER NAME": "Josh Oliver",
+    "Player": "Josh Oliver",
     "POS": "TE58",
     "RK COPY": "390"
 }, {
     "RK": "391",
-    "PLAYER NAME": "Xavier Gipson",
+    "Player": "Xavier Gipson",
     "POS": "WR128",
     "RK COPY": "391"
 }, {
     "RK": "392",
-    "PLAYER NAME": "John Metchie III",
+    "Player": "John Metchie III",
     "POS": "WR129",
     "RK COPY": "392"
 }, {
     "RK": "393",
-    "PLAYER NAME": "Chris Rodriguez Jr.",
+    "Player": "Chris Rodriguez Jr.",
     "POS": "RB101",
     "RK COPY": "393"
 }, {
     "RK": "394",
-    "PLAYER NAME": "Tyler Badie",
+    "Player": "Tyler Badie",
     "POS": "RB102",
     "RK COPY": "394"
 }, {
     "RK": "395",
-    "PLAYER NAME": "Tanner Hudson",
+    "Player": "Tanner Hudson",
     "POS": "TE59",
     "RK COPY": "395"
 }, {
     "RK": "396",
-    "PLAYER NAME": "Parker Washington",
+    "Player": "Parker Washington",
     "POS": "WR130",
     "RK COPY": "396"
 }, {
     "RK": "397",
-    "PLAYER NAME": "Jeremy Ruckert",
+    "Player": "Jeremy Ruckert",
     "POS": "TE60",
     "RK COPY": "397"
 }, {
     "RK": "398",
-    "PLAYER NAME": "Emani Bailey",
+    "Player": "Emani Bailey",
     "POS": "RB103",
     "RK COPY": "398"
 }, {
     "RK": "399",
-    "PLAYER NAME": "Devontez Walker",
+    "Player": "Devontez Walker",
     "POS": "WR131",
     "RK COPY": "399"
 }, {
     "RK": "400",
-    "PLAYER NAME": "Evan Hull",
+    "Player": "Evan Hull",
     "POS": "RB104",
     "RK COPY": "400"
 }, {
     "RK": "401",
-    "PLAYER NAME": "Mo Alie-Cox",
+    "Player": "Mo Alie-Cox",
     "POS": "TE61",
     "RK COPY": "401"
 }, {
     "RK": "402",
-    "PLAYER NAME": "Hassan Haskins",
+    "Player": "Hassan Haskins",
     "POS": "RB105",
     "RK COPY": "402"
 }, {
     "RK": "403",
-    "PLAYER NAME": "Brenden Rice",
+    "Player": "Brenden Rice",
     "POS": "WR132",
     "RK COPY": "403"
 }, {
     "RK": "404",
-    "PLAYER NAME": "Austin Hooper",
+    "Player": "Austin Hooper",
     "POS": "TE62",
     "RK COPY": "404"
 }, {
     "RK": "405",
-    "PLAYER NAME": "Anthony Gould",
+    "Player": "Anthony Gould",
     "POS": "WR133",
     "RK COPY": "405"
 }, {
     "RK": "406",
-    "PLAYER NAME": "Jaret Patterson",
+    "Player": "Jaret Patterson",
     "POS": "RB106",
     "RK COPY": "406"
 }, {
     "RK": "407",
-    "PLAYER NAME": "Jaheim Bell",
+    "Player": "Jaheim Bell",
     "POS": "TE63",
     "RK COPY": "407"
 }, {
     "RK": "408",
-    "PLAYER NAME": "Rasheen Ali",
+    "Player": "Rasheen Ali",
     "POS": "RB107",
     "RK COPY": "408"
 }, {
     "RK": "409",
-    "PLAYER NAME": "Jamari Thrash",
+    "Player": "Jamari Thrash",
     "POS": "WR134",
     "RK COPY": "409"
 }, {
     "RK": "410",
-    "PLAYER NAME": "Cedrick Wilson Jr.",
+    "Player": "Cedrick Wilson Jr.",
     "POS": "WR135",
     "RK COPY": "410"
 }, {
     "RK": "411",
-    "PLAYER NAME": "Malachi Corley",
+    "Player": "Malachi Corley",
     "POS": "WR136",
     "RK COPY": "411"
 }, {
     "RK": "412",
-    "PLAYER NAME": "Bryce Young",
+    "Player": "Bryce Young",
     "POS": "QB41",
     "RK COPY": "412"
 }]

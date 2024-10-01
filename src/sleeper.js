@@ -68,6 +68,7 @@
         });
         for (let i = 0; i < roundJson.length; i += 1) {
             var pickJson = roundJson[i];
+            console.log(pickJson);
             // Look up entry in rosJson
             var rosJsonEntry = rosJson.filter(function(entry) {
                 return entry["Player"].includes(pickJson.metadata.first_name) && entry["Player"].includes(pickJson.metadata.last_name);
