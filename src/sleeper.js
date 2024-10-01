@@ -15,7 +15,7 @@
 
     function getDraft() {
         $.when(getAjaxCall(constructDraftPicksUrl()), getAjaxCall(constructDraftInfoUrl()), getAjaxCall("https://shihe.github.io/sleeper-draft-grades/json/curr_fp_ros.json"), getAjaxCall("https://shihe.github.io/sleeper-draft-grades/json/ros_trend.json")).done(function(draftPicksResponse, draftInfoResponse, rosResponse, rosTrendsResponse) {
-            displayDraft(draftResponse[0], draftInfoResponse[0], rosResponse[0], rosTrendsResponse[0]);
+            displayDraft(draftPicksResponse[0], draftInfoResponse[0], rosResponse[0], rosTrendsResponse[0]);
         });
     }
 
