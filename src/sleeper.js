@@ -14,26 +14,20 @@
     };
 
     function getDraft() {
-        $.when($.ajax({
+        $.when(getAjaxCall(constructDraftPicksUrl()), getAjaxCall(constructDraftInfoUrl()), getAjaxCall("https://shihe.github.io/sleeper-draft-grades/json/curr_fp_ros.json"), getAjaxCall("https://shihe.github.io/sleeper-draft-grades/json/ros_trend.json")).done(function(draftPicksResponse, draftInfoResponse, rosResponse, rosTrendsResponse) {
+            displayDraft(draftResponse[0], draftInfoResponse[0], rosResponse[0], rosTrendsResponse[0]);
+        });
+    }
+
+    function getAjaxCall(url) {
+        return $.ajax({
             async: true,
             crossDomain: true,
-            url: constructDraftPicksUrl(),
+            url: url,
             method: 'GET',
             headers: {
                 accept: 'application/json',
             }
-        }), $.ajax({
-            async: true,
-            crossDomain: true,
-            url: "https://shihe.github.io/sleeper-draft-grades/json/curr_fp_ros.json",
-            method: 'GET',
-            headers: {
-                accept: 'application/json',
-            }
-        })).done(function(draftResponse, rosResponse) {
-            console.log(draftResponse[0]);
-            console.log(rosResponse[0]);
-            displayDraft(draftResponse[0], rosResponse[0]);
         });
     }
 
@@ -42,7 +36,12 @@
         return "https://api.sleeper.app/v1/draft/" + draftNumberParam + "/picks";
     }
 
-    function displayDraft(draftJson, rosJson) {
+    function constructDraftInfoUrl() {
+        const draftNumberParam = $('#draft-id').val();
+        return "https://api.sleeper.app/v1/draft/" + draftNumberParam;
+    }
+
+    function displayDraft(draftPicksJson, draftInfoJson, rosJson, rosTrendsJson) {
         const tableContainer = $('#draft-table');
         tableContainer.empty();
         const table = $('<table>', {
@@ -52,7 +51,7 @@
         const body = $('<tbody>');
         const rounds = 15;
         for (let i = 1; i <= rounds; i += 1) {
-            var roundJson = draftJson.filter(function(pick) {
+            var roundJson = draftPicksJson.filter(function(pick) {
                 return pick.round == i;
             });
             body.append(constructRow(roundJson, rosJson, i));
